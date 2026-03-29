@@ -7,7 +7,7 @@ import numpy as np
 ROOT = Path(__file__).resolve().parent
 sys.path.append(str(ROOT / "Cost-Anomaly-Detection"))
 sys.path.append(str(ROOT / "SLA"))
-sys.path.append(str(ROOT / "transection_control")) # Add the FinOps folder
+sys.path.append(str(ROOT / "Transection_control")) # Add the FinOps folder
 
 # Import the three autonomous agents
 from main import SpendIntelligenceSystem
