@@ -9,8 +9,7 @@ warnings.filterwarnings("ignore")
 
 ## verify the file path 
 
-df = pd.read_csv('/home/dhiraj/python DS/hackathon/AI_agent/Cost-Anomaly-Detection/enterprise_cost_dataset.csv')
-
+df = pd.read_csv('Cost-Anomaly-Detection/enterprise_cost_dataset.csv')
 
 
 # ─────────────────────────────────────────────────────────────────────────────
