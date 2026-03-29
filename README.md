@@ -1,34 +1,39 @@
-# Hackerthorn: SLA & Cost-Leakage Control Room
+# 💎 Unified Enterprise Cost Intelligence & Autonomous Action Platform
 
-An intelligent agentic pipeline that continuously monitors enterprise data, identifies cost anomalies, and estimates SLA breach risks with actionable interventions.
+**Built for the ET AI Hackathon 2026 — Problem Statement 3**
 
-## Overview
+An intelligent, multi-agent orchestration platform that continuously monitors enterprise data, identifies cost anomalies, predicts operational SLA breaches, reconciles financial ledgers, and automatically initiates corrective actions within enterprise guardrails.
 
-This project provides a robust, real-time control room powered by AI agents to automatically find savings and mitigate SLA penalties before they happen. It unifies two core sub-systems:
+## 🚀 Overview
 
-1. **Cost Anomaly Detection (`Cost-Anomaly-Detection/`)**: Analyzes transactional and operational spend to find financial leaks and cost-saving opportunities.
-2. **SLA Risk Assessment (`SLA/`)**: Predicts service level agreement (SLA) breaches, evaluating financial exposure and automating risk mitigation assignments.
+This project goes beyond traditional static dashboards. It is a proactive, autonomous control room powered by three specialized AI agents that work together to identify financial leakage and execute mitigation strategies.
 
-The system features an interactive Human-In-The-Loop (HITL) Streamlit dashboard for monitoring pipelines, discovering vulnerabilities, and approving mitigating actions.
+- **Spend Intelligence Agent (`Cost-Anomaly-Detection/`)**: Analyzes transactional and vendor procurement data to find duplicate costs, overcharges, and anomalies, recommending instant blockers or vendor disputes.
+- **SLA & Penalty Prevention Agent (`SLA/`)**: Forecasts operational service level agreement (SLA) breaches, evaluates the exact financial penalty exposure, and automates risk mitigation assignments (e.g., rerouting work).
+- **Financial Operations Agent (`transection_control/`)**: Cross-references internal enterprise ledgers against bank statements to instantly reconcile transactions, flag missing payments, and calculate precise variance exposure.
 
-## Repository Structure
+The entire system is governed by an interactive Human-In-The-Loop (HITL) Streamlit dashboard, ensuring that high-risk autonomous actions (like freezing an account or blocking a payment) require admin approval, perfectly aligning with enterprise compliance workflows.
 
-```
-├── Cost-Anomaly-Detection/ # Agent for finding transactional & sub-contracting cost leakages
-├── SLA/                    # Agent for forecasting operational risks & SLA breaches
-├── unified_app.py          # The main Streamlit HITL dashboard
-├── unified_backend.py      # Aggregates both AI agents into a single robust pipeline
+## 📁 Repository Structure
+
+```plaintext
+├── Cost-Anomaly-Detection/ # Agent for finding transactional & procurement cost leakages
+├── SLA/                    # Agent for forecasting operational risks & SLA penalty prevention
+├── transection_control/    # FinOps Agent for ledger vs. bank reconciliation
+├── unified_app.py          # The main Streamlit HITL Control Room dashboard
+├── unified_backend.py      # Master orchestrator aggregating all 3 agents into a single pipeline
 ├── requirements.txt        # Combined required Python packages
 └── .gitignore              # Ignored files, environments, cache directories
 ```
 
-## Features
-- **Multi-Agent Pipeline Workflow**: Integrates both cost and SLA intelligent agents seamlessly.
-- **Deep Dive Tabs**: Check issues individually with dynamic Plotly visualizations.
-- **Action Queue (HITL)**: Review queued pipeline insights like Reassigning, Escalating, or Blocking Payments safely.
-- **Real-Time Data Ingestion**: Load new CSV extracts directly through the sidebar and trace live anomalies out of the box.
+## ✨ Key Features (Hackathon Evaluation Focus)
 
-## Requirements and Installation
+- **Quantifiable Financial Impact**: Every single anomaly, SLA breach, and missing transaction is mathematically quantified into exact ₹ INR exposure to show immediate ROI.
+- **Autonomous Execution**: The system maps issues to specific actions (e.g., "Auto-Block", "Hold Ledger", "Reassign Ticket") instead of just generating reports.
+- **Enterprise Approval Guardrails**: Safe actions are executed instantly, while high-impact actions are queued in a centralized HITL approval queue.
+- **Deterministic & LLM Fallbacks**: Utilizes lightning-fast, rule-based heuristics and Isolation Forest Machine Learning to guarantee zero-latency execution during live demos, independent of API rate limits.
+
+## ⚙️ Requirements and Installation
 
 Ensure you have Python 3.8+ installed.
 
@@ -49,11 +54,10 @@ Ensure you have Python 3.8+ installed.
    pip install -r requirements.txt
    ```
 
-4. **Set up environment variables**:
-   - Copy `SLA/.env.example` to `.env` in the root (if applicable).
-   - Add your necessary API keys (e.g., `OPENAI_API_KEY`) if requested by any of the downstream agents.
+4. **Set up environment variables (Optional)**:
+   - If utilizing the OpenAI fallback models in the SLA pipeline, copy `SLA/.env.example` to `.env` in the root and add your `OPENAI_API_KEY`. *(Note: The default demo uses deterministic routing for 100% stability).*
 
-## Usage
+## 🖥️ Usage & Live Demo
 
 Start the unified control room by executing the main Streamlit application:
 
@@ -61,7 +65,9 @@ Start the unified control room by executing the main Streamlit application:
 streamlit run unified_app.py
 ```
 
-This will launch a local server and give you a web interface where you can:
-- Upload your Enterprise Dataset (CSV) inside the Control Room
-- Run the Multi-Agent Pipeline
-- View actionable cost leakage insights, SLA risk distribution, and the autonomous action queue.
+This will launch a local server (`http://localhost:8501`) where you can:
+
+1. **Load the Demo Dataset** (or upload your own Enterprise CSV) directly from the sidebar.
+2. **Click 🚀 Run Multi-Agent Pipeline**.
+3. **Watch as the master orchestrator** delegates the data to all three agents and aggregates the exact cost savings, penalty exposure, and reconciliation variance into a single pane of glass.
+4. **Navigate the 4 Deep Dive Tabs** to audit individual agent findings and review the global action queue.
