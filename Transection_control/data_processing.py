@@ -11,6 +11,9 @@ import numpy as np
 import os
 import logging
 
+os.makedirs("logs", exist_ok=True)
+
+# 2. Now the logger can safely create the file inside it
 logging.basicConfig(
     filename="logs/finops.log",
     level=logging.INFO,
