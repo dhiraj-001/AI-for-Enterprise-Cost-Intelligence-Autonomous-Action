@@ -32,8 +32,9 @@ share/python-wheels/
 .env
 .venv
 env/
-venv/
+.venv/
 ENV/
+__pycache__/
 
 # VS Code / IDEs
 .vscode/
