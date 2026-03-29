@@ -1,0 +1,725 @@
+Transaction_ID,Date,Vendor,Department,Amount,Issue_Type,ML_Risk_Score,Recommended_Action,Estimated_Savings,Auto_Action,Execution_Status
+9297,2025-01-22 08:00:00,Wipro,Marketing,794925,High ML Risk (Pattern),0.9434623823888529,Investigate Vendor,158985.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+2971,2024-05-03 18:00:00,Wipro,Finance,789779,High ML Risk (Pattern),0.9449835164835164,Investigate Vendor,157955.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+5857,2024-09-01 00:00:00,Google Cloud,Finance,787700,High ML Risk (Pattern),0.8879586247086246,Investigate Vendor,157540.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+7506,2024-11-08 17:00:00,TCS,Finance,778427,High ML Risk (Pattern),0.9281204212454213,Investigate Vendor,155685.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+113,2024-01-05 16:00:00,TCS,Finance,768926,High ML Risk (Pattern),0.9557619047619046,Investigate Vendor,153785.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+8869,2025-01-04 12:00:00,TCS,Finance,768837,High ML Risk (Pattern),0.9609848484848486,Investigate Vendor,153767.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+8828,2025-01-02 19:00:00,Infosys,IT,761577,High ML Risk (Pattern),0.9523162393162393,Investigate Vendor,152315.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+7907,2024-11-25 10:00:00,Google Cloud,Marketing,759130,High ML Risk (Pattern),0.8849730824730824,Investigate Vendor,151826.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+627,2024-01-27 02:00:00,AWS,HR,758616,High ML Risk (Pattern),0.9211590909090909,Investigate Vendor,151723.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+5142,2024-08-02 05:00:00,AWS,IT,755524,High ML Risk (Pattern),0.9086416361416362,Investigate Vendor,151104.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+7549,2024-11-10 12:00:00,Wipro,Finance,754268,High ML Risk (Pattern),0.927465034965035,Investigate Vendor,150853.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+4213,2024-06-24 12:00:00,IBM,Finance,754196,High ML Risk (Pattern),0.9101149683649684,Investigate Vendor,150839.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+4312,2024-06-28 15:00:00,TCS,Marketing,753143,High ML Risk (Pattern),0.9233729187479187,Investigate Vendor,150628.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+8825,2025-01-02 16:00:00,Infosys,Finance,751911,High ML Risk (Pattern),0.9215870893812071,Investigate Vendor,150382.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+9001,2025-01-10 00:00:00,Infosys,Finance,734305,High ML Risk (Pattern),0.932435574229692,Investigate Vendor,146861.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+2166,2024-03-31 05:00:00,Azure,Marketing,728057,High ML Risk (Pattern),0.9055555555555557,Investigate Vendor,145611.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+3235,2024-05-14 18:00:00,IBM,Finance,726311,High ML Risk (Pattern),0.9046519036519036,Investigate Vendor,145262.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+2154,2024-03-30 17:00:00,TCS,HR,722100,High ML Risk (Pattern),0.925688492063492,Investigate Vendor,144420.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+1384,2024-02-27 15:00:00,Wipro,Marketing,720108,High ML Risk (Pattern),0.9296778309409889,Investigate Vendor,144021.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+6534,2024-09-29 05:00:00,Wipro,Operations,708186,High ML Risk (Pattern),0.9286388888888887,Investigate Vendor,141637.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+3177,2024-05-12 08:00:00,Wipro,Marketing,708062,High ML Risk (Pattern),0.911111111111111,Investigate Vendor,141612.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+1303,2024-02-24 06:00:00,AWS,Marketing,705710,High ML Risk (Pattern),0.8777540792540793,Investigate Vendor,141142.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+662,2024-01-28 13:00:00,Infosys,Operations,703034,High ML Risk (Pattern),0.8378116981058155,Investigate Vendor,140606.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+7998,2024-11-29 05:00:00,Infosys,HR,696486,High ML Risk (Pattern),0.9077813852813853,Investigate Vendor,139297.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+4020,2024-06-16 11:00:00,Infosys,Operations,691841,High ML Risk (Pattern),0.9373333333333332,Investigate Vendor,138368.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+8619,2024-12-25 02:00:00,AWS,HR,691358,High ML Risk (Pattern),0.8744188311688313,Investigate Vendor,138271.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+806,2024-02-03 13:00:00,Wipro,IT,691031,High ML Risk (Pattern),0.9230975250239957,Investigate Vendor,138206.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+708,2024-01-30 11:00:00,IBM,HR,690526,High ML Risk (Pattern),0.9472817460317458,Investigate Vendor,138105.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+7544,2024-11-10 07:00:00,Wipro,Marketing,688371,High ML Risk (Pattern),0.9000056193806194,Investigate Vendor,137674.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+8367,2024-12-14 14:00:00,Google Cloud,IT,681898,High ML Risk (Pattern),0.8392252886002888,Investigate Vendor,136379.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+8792,2025-01-01 07:00:00,Infosys,Marketing,681595,High ML Risk (Pattern),0.9476191961633138,Investigate Vendor,136319.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+419,2024-01-18 10:00:00,Infosys,Marketing,680469,High ML Risk (Pattern),0.9498627859069037,Investigate Vendor,136093.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+4909,2024-07-23 12:00:00,Wipro,Finance,679424,High ML Risk (Pattern),0.9374385614385613,Investigate Vendor,135884.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+7792,2024-11-20 15:00:00,AWS,Operations,679057,High ML Risk (Pattern),0.8746014181896534,Investigate Vendor,135811.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+8753,2024-12-30 16:00:00,Wipro,HR,678707,High ML Risk (Pattern),0.9570551948051947,Investigate Vendor,135741.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+4573,2024-07-09 12:00:00,Google Cloud,IT,672923,High ML Risk (Pattern),0.8839213286713288,Investigate Vendor,134584.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+377,2024-01-16 16:00:00,AWS,HR,669564,High ML Risk (Pattern),0.958482142857143,Investigate Vendor,133912.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+953,2024-02-09 16:00:00,Azure,Operations,668785,High ML Risk (Pattern),0.9759320679320679,Investigate Vendor,133757.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+5183,2024-08-03 22:00:00,AWS,IT,668586,High ML Risk (Pattern),0.9137193084693084,Investigate Vendor,133717.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+5477,2024-08-16 04:00:00,TCS,Operations,667155,High ML Risk (Pattern),0.9545930735930738,Investigate Vendor,133431.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+1686,2024-03-11 05:00:00,AWS,Finance,650927,High ML Risk (Pattern),0.9178269230769232,Investigate Vendor,130185.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+7228,2024-10-28 03:00:00,IBM,Operations,649412,High ML Risk (Pattern),0.9538567251461988,Investigate Vendor,129882.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+9756,2025-02-10 11:00:00,IBM,HR,645849,High ML Risk (Pattern),0.9176196581196581,Investigate Vendor,129169.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+8204,2024-12-07 19:00:00,Azure,IT,644876,High ML Risk (Pattern),0.9221223776223776,Investigate Vendor,128975.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+511,2024-01-22 06:00:00,Infosys,IT,637272,High ML Risk (Pattern),0.9008068181818182,Investigate Vendor,127454.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+7459,2024-11-06 18:00:00,Wipro,IT,636763,High ML Risk (Pattern),0.9567261586452763,Investigate Vendor,127352.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+985,2024-02-11 00:00:00,Azure,HR,635883,High ML Risk (Pattern),0.9472341269841269,Investigate Vendor,127176.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+5413,2024-08-13 12:00:00,Azure,Marketing,629032,High ML Risk (Pattern),0.9166863430686959,Investigate Vendor,125806.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+5423,2024-08-13 22:00:00,Wipro,HR,628435,High ML Risk (Pattern),0.9025817736185384,Investigate Vendor,125687.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+3680,2024-06-02 07:00:00,TCS,Finance,626993,High ML Risk (Pattern),0.9138383838383838,Investigate Vendor,125398.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+49,2024-01-03 00:00:00,AWS,Marketing,621386,High ML Risk (Pattern),0.8831471861471861,Investigate Vendor,124277.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+3101,2024-05-09 04:00:00,Infosys,Finance,621144,High ML Risk (Pattern),0.9200325814536339,Investigate Vendor,124228.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+8084,2024-12-02 19:00:00,TCS,Marketing,618872,High ML Risk (Pattern),0.8844961865619761,Investigate Vendor,123774.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+2795,2024-04-26 10:00:00,Infosys,IT,617963,High ML Risk (Pattern),0.9502821391714579,Investigate Vendor,123592.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+2656,2024-04-20 15:00:00,Google Cloud,Finance,616901,High ML Risk (Pattern),0.9042222222222223,Investigate Vendor,123380.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+9259,2025-01-20 18:00:00,IBM,IT,615906,High ML Risk (Pattern),0.868921679627562,Investigate Vendor,123181.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+7119,2024-10-23 14:00:00,TCS,Marketing,612929,High ML Risk (Pattern),0.9358333333333333,Investigate Vendor,122585.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+6236,2024-09-16 19:00:00,TCS,IT,612188,High ML Risk (Pattern),0.8993385503385504,Investigate Vendor,122437.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+657,2024-01-28 08:00:00,Infosys,IT,611973,High ML Risk (Pattern),0.830515873015873,Investigate Vendor,122394.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+4870,2024-07-21 21:00:00,Infosys,Marketing,611866,High ML Risk (Pattern),0.8924568238778765,Investigate Vendor,122373.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+5210,2024-08-05 01:00:00,Infosys,Finance,611232,High ML Risk (Pattern),0.8521237680448206,Investigate Vendor,122246.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+3585,2024-05-29 08:00:00,IBM,IT,609578,High ML Risk (Pattern),0.9316388888888889,Investigate Vendor,121915.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+2127,2024-03-29 14:00:00,Google Cloud,HR,600880,High ML Risk (Pattern),0.9505833333333333,Investigate Vendor,120176.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+4170,2024-06-22 17:00:00,Wipro,Operations,599984,High ML Risk (Pattern),0.9431616161616162,Investigate Vendor,119996.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+3204,2024-05-13 11:00:00,Google Cloud,Operations,597857,High ML Risk (Pattern),0.882329143079143,Investigate Vendor,119571.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+1794,2024-03-15 17:00:00,IBM,IT,593899,High ML Risk (Pattern),0.9272499999999999,Investigate Vendor,118779.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+3668,2024-06-01 19:00:00,TCS,IT,593361,High ML Risk (Pattern),0.9248737373737375,Investigate Vendor,118672.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+1299,2024-02-24 02:00:00,IBM,Marketing,591685,High ML Risk (Pattern),0.917709595959596,Investigate Vendor,118337.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+8090,2024-12-03 01:00:00,IBM,Operations,586795,High ML Risk (Pattern),0.9468690476190476,Investigate Vendor,117359.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+8177,2024-12-06 16:00:00,Infosys,IT,586301,High ML Risk (Pattern),0.9167539682539683,Investigate Vendor,117260.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+943,2024-02-09 06:00:00,Infosys,Marketing,585757,High ML Risk (Pattern),0.9249638266789968,Investigate Vendor,117151.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+5405,2024-08-13 04:00:00,TCS,Operations,577481,High ML Risk (Pattern),0.9624065656565657,Investigate Vendor,115496.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+2872,2024-04-29 15:00:00,AWS,Marketing,574199,High ML Risk (Pattern),0.9143333333333336,Investigate Vendor,114839.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+1066,2024-02-14 09:00:00,Azure,Marketing,573980,High ML Risk (Pattern),0.9158529411764705,Investigate Vendor,114796.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+447,2024-01-19 14:00:00,Azure,IT,572956,High ML Risk (Pattern),0.9417063492063492,Investigate Vendor,114591.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+5391,2024-08-12 14:00:00,Wipro,Operations,566816,High ML Risk (Pattern),0.9291005383505383,Investigate Vendor,113363.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+5714,2024-08-26 01:00:00,AWS,Finance,564789,High ML Risk (Pattern),0.8889743173493174,Investigate Vendor,112957.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+1141,2024-02-17 12:00:00,Wipro,HR,561470,High ML Risk (Pattern),0.8910425522190227,Investigate Vendor,112294.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+6471,2024-09-26 14:00:00,AWS,Marketing,557525,High ML Risk (Pattern),0.869689118071471,Investigate Vendor,111505.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+7110,2024-10-23 05:00:00,TCS,Marketing,556570,High ML Risk (Pattern),0.9133059163059162,Investigate Vendor,111314.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+2264,2024-04-04 07:00:00,IBM,IT,551236,High ML Risk (Pattern),0.9460714285714286,Investigate Vendor,110247.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+4061,2024-06-18 04:00:00,AWS,Finance,550532,High ML Risk (Pattern),0.8748684648684646,Investigate Vendor,110106.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+9016,2025-01-10 15:00:00,IBM,IT,548675,High ML Risk (Pattern),0.9653968253968255,Investigate Vendor,109735.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+4691,2024-07-14 10:00:00,Azure,IT,541908,High ML Risk (Pattern),0.9198531533825651,Investigate Vendor,108381.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+5600,2024-08-21 07:00:00,AWS,Operations,541798,High ML Risk (Pattern),0.9334674214674215,Investigate Vendor,108359.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+9052,2025-01-12 03:00:00,Google Cloud,Marketing,540920,High ML Risk (Pattern),0.8369358974358976,Investigate Vendor,108184.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+7070,2024-10-21 13:00:00,TCS,Finance,540740,High ML Risk (Pattern),0.9061630591630592,Investigate Vendor,108148.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+2979,2024-05-04 02:00:00,Wipro,IT,537128,High ML Risk (Pattern),0.9414523809523808,Investigate Vendor,107425.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+3956,2024-06-13 19:00:00,Infosys,Operations,534906,High ML Risk (Pattern),0.9283333333333335,Investigate Vendor,106981.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+358,2024-01-15 21:00:00,AWS,Operations,533239,High ML Risk (Pattern),0.9792705627705627,Investigate Vendor,106647.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+5113,2024-08-01 00:00:00,AWS,IT,531868,High ML Risk (Pattern),0.9249804778554777,Investigate Vendor,106373.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+9366,2025-01-25 05:00:00,IBM,Finance,528734,High ML Risk (Pattern),0.9105784967956019,Investigate Vendor,105746.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+9788,2025-02-11 19:00:00,AWS,Operations,519227,High ML Risk (Pattern),0.9637445887445887,Investigate Vendor,103845.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+4912,2024-07-23 15:00:00,Google Cloud,Finance,518021,High ML Risk (Pattern),0.9161707459207459,Investigate Vendor,103604.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+2519,2024-04-14 22:00:00,IBM,HR,517055,High ML Risk (Pattern),0.9178888888888889,Investigate Vendor,103411.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+8353,2024-12-14 00:00:00,Wipro,HR,508732,High ML Risk (Pattern),0.9483165723165723,Investigate Vendor,101746.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+1594,2024-03-07 09:00:00,Azure,IT,508067,High ML Risk (Pattern),0.9701944444444445,Investigate Vendor,101613.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+834,2024-02-04 17:00:00,IBM,Finance,507184,High ML Risk (Pattern),0.9025473856209149,Investigate Vendor,101436.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+7807,2024-11-21 06:00:00,Google Cloud,Marketing,500463,High ML Risk (Pattern),0.8899356060606061,Investigate Vendor,100092.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+4603,2024-07-10 18:00:00,Google Cloud,Marketing,497224,High ML Risk (Pattern),0.9211263736263737,Investigate Vendor,99444.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+5627,2024-08-22 10:00:00,AWS,Operations,496856,High ML Risk (Pattern),0.9424718614718615,Investigate Vendor,99371.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+3843,2024-06-09 02:00:00,IBM,Operations,495408,High ML Risk (Pattern),0.886462703962704,Investigate Vendor,99081.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+2086,2024-03-27 21:00:00,Google Cloud,HR,494290,High ML Risk (Pattern),0.8968214285714285,Investigate Vendor,98858.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+74,2024-01-04 01:00:00,Infosys,Marketing,493366,High ML Risk (Pattern),0.9639026806526806,Investigate Vendor,98673.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+5701,2024-08-25 12:00:00,TCS,Marketing,493245,High ML Risk (Pattern),0.9227486022749182,Investigate Vendor,98649.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+3381,2024-05-20 20:00:00,TCS,IT,492370,High ML Risk (Pattern),0.9299358974358976,Investigate Vendor,98474.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+2205,2024-04-01 20:00:00,TCS,HR,492065,High ML Risk (Pattern),0.8963075258075258,Investigate Vendor,98413.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+2812,2024-04-27 03:00:00,Azure,Marketing,479180,High ML Risk (Pattern),0.9065654761904761,Investigate Vendor,95836.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+9558,2025-02-02 05:00:00,Infosys,Marketing,479088,High ML Risk (Pattern),0.9009660617160615,Investigate Vendor,95817.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+2751,2024-04-24 14:00:00,Infosys,Finance,477874,High ML Risk (Pattern),0.9492499999999999,Investigate Vendor,95574.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+1960,2024-03-22 15:00:00,AWS,Marketing,476406,High ML Risk (Pattern),0.9409657009657011,Investigate Vendor,95281.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+9116,2025-01-14 19:00:00,TCS,IT,469351,High ML Risk (Pattern),0.929408496732026,Investigate Vendor,93870.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+3683,2024-06-02 10:00:00,TCS,Marketing,464026,High ML Risk (Pattern),0.9342136752136753,Investigate Vendor,92805.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+3659,2024-06-01 10:00:00,Wipro,Operations,462547,High ML Risk (Pattern),0.9348994241053065,Investigate Vendor,92509.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+2772,2024-04-25 11:00:00,Azure,IT,448160,High ML Risk (Pattern),0.9581944444444445,Investigate Vendor,89632.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+6621,2024-10-02 20:00:00,Azure,Operations,435424,High ML Risk (Pattern),0.9191284300494825,Investigate Vendor,87084.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+1387,2024-02-27 18:00:00,Azure,Marketing,423852,High ML Risk (Pattern),0.9341361416361416,Investigate Vendor,84770.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+4373,2024-07-01 04:00:00,Google Cloud,Marketing,422483,High ML Risk (Pattern),0.8904114774114774,Investigate Vendor,84496.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+1261,2024-02-22 12:00:00,Infosys,Marketing,421958,High ML Risk (Pattern),0.9315383880825056,Investigate Vendor,84391.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+6006,2024-09-07 05:00:00,Infosys,IT,420203,High ML Risk (Pattern),0.8932658730158728,Investigate Vendor,84040.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+8821,2025-01-02 12:00:00,TCS,Marketing,419866,High ML Risk (Pattern),0.885763431013431,Investigate Vendor,83973.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+379,2024-01-16 18:00:00,TCS,IT,417006,High ML Risk (Pattern),0.929408496732026,Investigate Vendor,83401.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+6467,2024-09-26 10:00:00,Infosys,IT,413453,High ML Risk (Pattern),0.9490818713450294,Investigate Vendor,82690.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+4736,2024-07-16 07:00:00,TCS,Marketing,408569,High ML Risk (Pattern),0.968,Investigate Vendor,81713.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+5870,2024-09-01 13:00:00,IBM,HR,404749,High ML Risk (Pattern),0.887195165945166,Investigate Vendor,80949.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+4271,2024-06-26 22:00:00,Infosys,Operations,404234,High ML Risk (Pattern),0.945171568627451,Investigate Vendor,80846.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+7184,2024-10-26 07:00:00,TCS,Finance,404106,High ML Risk (Pattern),0.9375245726495727,Investigate Vendor,80821.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+1611,2024-03-08 02:00:00,Wipro,Marketing,403762,High ML Risk (Pattern),0.9221128871128872,Investigate Vendor,80752.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+8274,2024-12-10 17:00:00,Google Cloud,IT,400032,High ML Risk (Pattern),0.8469163418281065,Investigate Vendor,80006.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+8368,2024-12-14 15:00:00,Google Cloud,IT,399227,High ML Risk (Pattern),0.8712503607503609,Investigate Vendor,79845.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+8867,2025-01-04 10:00:00,Wipro,Operations,396019,High ML Risk (Pattern),0.9350075757575756,Investigate Vendor,79203.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+1576,2024-03-06 15:00:00,AWS,IT,394251,High ML Risk (Pattern),0.9205888457947282,Investigate Vendor,78850.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+9782,2025-02-11 13:00:00,IBM,HR,393782,High ML Risk (Pattern),0.9255833333333335,Investigate Vendor,78756.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+5437,2024-08-14 12:00:00,TCS,Marketing,391567,High ML Risk (Pattern),0.9340086580086581,Investigate Vendor,78313.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+7264,2024-10-29 15:00:00,IBM,Operations,390286,High ML Risk (Pattern),0.9254395604395604,Investigate Vendor,78057.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+957,2024-02-09 20:00:00,Google Cloud,Marketing,388052,High ML Risk (Pattern),0.9390963203463203,Investigate Vendor,77610.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+6369,2024-09-22 08:00:00,AWS,HR,379159,High ML Risk (Pattern),0.8734380341880342,Investigate Vendor,75831.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+35,2024-01-02 10:00:00,Google Cloud,Finance,376353,High ML Risk (Pattern),0.9475,Investigate Vendor,75270.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+8422,2024-12-16 21:00:00,TCS,Operations,375634,High ML Risk (Pattern),0.906560744810745,Investigate Vendor,75126.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+2565,2024-04-16 20:00:00,Google Cloud,Marketing,374620,High ML Risk (Pattern),0.9375757575757576,Investigate Vendor,74924.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+8081,2024-12-02 16:00:00,AWS,IT,372632,High ML Risk (Pattern),0.8960194250194252,Investigate Vendor,74526.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+7638,2024-11-14 05:00:00,IBM,HR,370027,High ML Risk (Pattern),0.9727380952380953,Investigate Vendor,74005.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+545,2024-01-23 16:00:00,Azure,Marketing,367814,High ML Risk (Pattern),0.9470399698340874,Investigate Vendor,73562.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+250,2024-01-11 09:00:00,Wipro,Finance,365190,High ML Risk (Pattern),0.9312698249462956,Investigate Vendor,73038.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+6885,2024-10-13 20:00:00,Infosys,IT,362704,High ML Risk (Pattern),0.9126767676767676,Investigate Vendor,72540.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+5972,2024-09-05 19:00:00,Google Cloud,IT,359424,High ML Risk (Pattern),0.8989113247863247,Investigate Vendor,71884.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+8525,2024-12-21 04:00:00,Azure,IT,359317,High ML Risk (Pattern),0.9533787878787879,Investigate Vendor,71863.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+5969,2024-09-05 16:00:00,Wipro,Marketing,353233,High ML Risk (Pattern),0.9453455988455987,Investigate Vendor,70646.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+8140,2024-12-05 03:00:00,Google Cloud,Marketing,347621,High ML Risk (Pattern),0.8607519980019976,Investigate Vendor,69524.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+2879,2024-04-29 22:00:00,Wipro,HR,346166,High ML Risk (Pattern),0.9766321195144724,Investigate Vendor,69233.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+9927,2025-02-17 14:00:00,Google Cloud,HR,341020,High ML Risk (Pattern),0.8590812324929974,Investigate Vendor,68204.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+1463,2024-03-01 22:00:00,Wipro,Marketing,339911,High ML Risk (Pattern),0.9221128871128872,Investigate Vendor,67982.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+2423,2024-04-10 22:00:00,TCS,Marketing,335769,High ML Risk (Pattern),0.9213333333333332,Investigate Vendor,67153.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+1042,2024-02-13 09:00:00,Google Cloud,IT,335319,High ML Risk (Pattern),0.8683727661227663,Investigate Vendor,67063.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+2616,2024-04-18 23:00:00,IBM,Finance,328716,High ML Risk (Pattern),0.9553968253968255,Investigate Vendor,65743.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+8292,2024-12-11 11:00:00,Google Cloud,HR,327744,High ML Risk (Pattern),0.9006861471861474,Investigate Vendor,65548.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+5134,2024-08-01 21:00:00,Infosys,Finance,326566,High ML Risk (Pattern),0.9115833333333334,Investigate Vendor,65313.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+245,2024-01-11 04:00:00,Wipro,IT,325185,High ML Risk (Pattern),0.9495098039215687,Investigate Vendor,65037.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+3046,2024-05-06 21:00:00,IBM,IT,324604,High ML Risk (Pattern),0.9491831501831501,Investigate Vendor,64920.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+6427,2024-09-24 18:00:00,AWS,Marketing,324063,High ML Risk (Pattern),0.8887908496732025,Investigate Vendor,64812.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+8804,2025-01-01 19:00:00,Azure,Finance,321774,High ML Risk (Pattern),0.9495714285714284,Investigate Vendor,64354.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+1587,2024-03-07 02:00:00,AWS,Finance,321501,High ML Risk (Pattern),0.8882662337662337,Investigate Vendor,64300.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+6993,2024-10-18 08:00:00,Infosys,IT,317974,High ML Risk (Pattern),0.9310396825396826,Investigate Vendor,63594.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+646,2024-01-27 21:00:00,Azure,Operations,317290,High ML Risk (Pattern),0.9405833333333333,Investigate Vendor,63458.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+2728,2024-04-23 15:00:00,Infosys,Finance,314619,High ML Risk (Pattern),0.9427867132867133,Investigate Vendor,62923.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+7648,2024-11-14 15:00:00,Infosys,Marketing,313857,High ML Risk (Pattern),0.9094520202020202,Investigate Vendor,62771.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+6472,2024-09-26 15:00:00,Google Cloud,Marketing,304894,High ML Risk (Pattern),0.9198937590187591,Investigate Vendor,60978.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+7472,2024-11-07 07:00:00,Wipro,Operations,296541,High ML Risk (Pattern),0.925806277056277,Investigate Vendor,59308.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+7619,2024-11-13 10:00:00,Azure,IT,294568,High ML Risk (Pattern),0.9452504469214995,Investigate Vendor,58913.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+1992,2024-03-23 23:00:00,Wipro,Operations,286527,High ML Risk (Pattern),0.9309343434343436,Investigate Vendor,57305.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+4723,2024-07-15 18:00:00,Wipro,Operations,282675,High ML Risk (Pattern),0.9354093406593407,Investigate Vendor,56535.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+3024,2024-05-05 23:00:00,Wipro,Finance,278281,High ML Risk (Pattern),0.8829755799755797,Investigate Vendor,55656.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+1762,2024-03-14 09:00:00,Wipro,Marketing,272195,High ML Risk (Pattern),0.9356943056943057,Investigate Vendor,54439.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+8644,2024-12-26 03:00:00,Azure,IT,270377,High ML Risk (Pattern),0.9065376984126984,Investigate Vendor,54075.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+4688,2024-07-14 07:00:00,AWS,Marketing,266883,High ML Risk (Pattern),0.8678547008547008,Investigate Vendor,53376.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+7188,2024-10-26 11:00:00,IBM,IT,263470,High ML Risk (Pattern),0.93425,Investigate Vendor,52694.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+388,2024-01-17 03:00:00,Wipro,IT,261939,High ML Risk (Pattern),0.9427240896358542,Investigate Vendor,52387.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+1052,2024-02-13 19:00:00,Wipro,Finance,259965,High ML Risk (Pattern),0.9457132981397686,Investigate Vendor,51993.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+5588,2024-08-20 19:00:00,TCS,Operations,255189,High ML Risk (Pattern),0.9550833333333333,Investigate Vendor,51037.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+8699,2024-12-28 10:00:00,Azure,IT,253595,High ML Risk (Pattern),0.9533787878787879,Investigate Vendor,50719.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+1620,2024-03-08 11:00:00,Azure,Marketing,252219,High ML Risk (Pattern),0.9725170940170941,Investigate Vendor,50443.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+1237,2024-02-21 12:00:00,Azure,IT,247501,High ML Risk (Pattern),0.9640833333333334,Investigate Vendor,49500.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+6717,2024-10-06 20:00:00,Infosys,Marketing,235031,High ML Risk (Pattern),0.9097853535353536,Investigate Vendor,47006.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+6310,2024-09-19 21:00:00,Infosys,Finance,231313,High ML Risk (Pattern),0.914032581453634,Investigate Vendor,46262.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+4255,2024-06-26 06:00:00,Azure,HR,229152,High ML Risk (Pattern),0.8904786324786325,Investigate Vendor,45830.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+9503,2025-01-30 22:00:00,IBM,Marketing,227281,High ML Risk (Pattern),0.8994034854034852,Investigate Vendor,45456.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+6271,2024-09-18 06:00:00,Google Cloud,HR,227224,High ML Risk (Pattern),0.9205227272727273,Investigate Vendor,45444.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+5255,2024-08-06 22:00:00,Infosys,IT,227091,High ML Risk (Pattern),0.8526262626262624,Investigate Vendor,45418.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+3688,2024-06-02 15:00:00,IBM,IT,217621,High ML Risk (Pattern),0.9201313131313131,Investigate Vendor,43524.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+6278,2024-09-18 13:00:00,TCS,Operations,214538,High ML Risk (Pattern),0.9395202020202019,Investigate Vendor,42907.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+3471,2024-05-24 14:00:00,AWS,HR,208058,High ML Risk (Pattern),0.97625,Investigate Vendor,41611.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+8057,2024-12-01 16:00:00,Azure,Marketing,207166,High ML Risk (Pattern),0.9090732478306006,Investigate Vendor,41433.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+615,2024-01-26 14:00:00,Azure,HR,205618,High ML Risk (Pattern),0.9461471861471863,Investigate Vendor,41123.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+1903,2024-03-20 06:00:00,TCS,Finance,205327,High ML Risk (Pattern),0.9221001400560224,Investigate Vendor,41065.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+5366,2024-08-11 13:00:00,Google Cloud,HR,203485,High ML Risk (Pattern),0.922939393939394,Investigate Vendor,40697.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+9578,2025-02-03 01:00:00,TCS,IT,203474,High ML Risk (Pattern),0.9177361111111112,Investigate Vendor,40694.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+3736,2024-06-04 15:00:00,Wipro,Marketing,200503,High ML Risk (Pattern),0.9297591297591298,Investigate Vendor,40100.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+8635,2024-12-25 18:00:00,IBM,HR,99997,High ML Risk (Pattern),0.932056277056277,Investigate Vendor,19999.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+8308,2024-12-12 03:00:00,AWS,Marketing,99995,High ML Risk (Pattern),0.8727882205513784,Investigate Vendor,19999.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+7183,2024-10-26 06:00:00,TCS,Operations,99994,High ML Risk (Pattern),0.9323928571428572,Investigate Vendor,19998.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+736,2024-01-31 15:00:00,IBM,Finance,99993,High ML Risk (Pattern),0.9411757190178243,Investigate Vendor,19998.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+5245,2024-08-06 12:00:00,Google Cloud,Operations,99991,High ML Risk (Pattern),0.9337647907647907,Investigate Vendor,19998.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+9144,2025-01-15 23:00:00,TCS,Marketing,99987,High ML Risk (Pattern),0.9072344877344878,Investigate Vendor,19997.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+144,2024-01-06 23:00:00,Azure,Operations,99983,High ML Risk (Pattern),0.965095238095238,Investigate Vendor,19996.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+443,2024-01-19 10:00:00,Azure,Operations,99980,High ML Risk (Pattern),0.9873333333333334,Investigate Vendor,19996.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+2652,2024-04-20 11:00:00,IBM,HR,99979,High ML Risk (Pattern),0.9441468253968255,Investigate Vendor,19995.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+7860,2024-11-23 11:00:00,IBM,IT,99972,High ML Risk (Pattern),0.9267896825396826,Investigate Vendor,19994.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+8265,2024-12-10 08:00:00,Azure,IT,99962,High ML Risk (Pattern),0.8604349707310233,Investigate Vendor,19992.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+308,2024-01-13 19:00:00,TCS,HR,99923,High ML Risk (Pattern),0.9667857142857144,Investigate Vendor,19984.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+3874,2024-06-10 09:00:00,Wipro,IT,99917,High ML Risk (Pattern),0.9210784313725491,Investigate Vendor,19983.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+8428,2024-12-17 03:00:00,Google Cloud,Marketing,99910,High ML Risk (Pattern),0.8596208236208236,Investigate Vendor,19982.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+6897,2024-10-14 08:00:00,Wipro,IT,99908,High ML Risk (Pattern),0.9157029734970911,Investigate Vendor,19981.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+9002,2025-01-10 01:00:00,Infosys,Finance,99906,High ML Risk (Pattern),0.9202380952380953,Investigate Vendor,19981.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+8860,2025-01-04 03:00:00,Azure,Operations,99902,High ML Risk (Pattern),0.9259318181818181,Investigate Vendor,19980.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+9861,2025-02-14 20:00:00,IBM,Operations,99901,High ML Risk (Pattern),0.907570152070152,Investigate Vendor,19980.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+9792,2025-02-11 23:00:00,TCS,HR,99893,High ML Risk (Pattern),0.8958776844070961,Investigate Vendor,19978.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+4942,2024-07-24 21:00:00,IBM,Marketing,99884,High ML Risk (Pattern),0.9328439615939617,Investigate Vendor,19976.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+3006,2024-05-05 05:00:00,TCS,IT,99873,High ML Risk (Pattern),0.9095102813852813,Investigate Vendor,19974.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+5915,2024-09-03 10:00:00,Google Cloud,Finance,99863,High ML Risk (Pattern),0.9038599594849593,Investigate Vendor,19972.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+8137,2024-12-05 00:00:00,Google Cloud,HR,99856,High ML Risk (Pattern),0.8978452380952382,Investigate Vendor,19971.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+3632,2024-05-31 07:00:00,AWS,HR,99847,High ML Risk (Pattern),0.9348816738816739,Investigate Vendor,19969.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+6857,2024-10-12 16:00:00,Wipro,HR,99844,High ML Risk (Pattern),0.886875350140056,Investigate Vendor,19968.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+2686,2024-04-21 21:00:00,TCS,Finance,99837,High ML Risk (Pattern),0.9112860750360748,Investigate Vendor,19967.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+7620,2024-11-13 11:00:00,TCS,Operations,99835,High ML Risk (Pattern),0.9336507936507935,Investigate Vendor,19967.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+386,2024-01-17 01:00:00,Wipro,IT,99833,High ML Risk (Pattern),0.9298104101780572,Investigate Vendor,19966.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+9991,2025-02-20 06:00:00,Azure,Operations,99833,High ML Risk (Pattern),0.922909090909091,Investigate Vendor,19966.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+952,2024-02-09 15:00:00,Azure,Finance,99831,High ML Risk (Pattern),0.9595641025641025,Investigate Vendor,19966.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+3308,2024-05-17 19:00:00,Wipro,Operations,99818,High ML Risk (Pattern),0.9458441558441558,Investigate Vendor,19963.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+3729,2024-06-04 08:00:00,Infosys,IT,99812,High ML Risk (Pattern),0.8945321802380627,Investigate Vendor,19962.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+8986,2025-01-09 09:00:00,Infosys,IT,99770,High ML Risk (Pattern),0.8923273809523807,Investigate Vendor,19954.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+4719,2024-07-15 14:00:00,Infosys,Marketing,99753,High ML Risk (Pattern),0.9367564102564103,Investigate Vendor,19950.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+88,2024-01-04 15:00:00,Wipro,Marketing,99752,High ML Risk (Pattern),0.8853672969187675,Investigate Vendor,19950.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+1782,2024-03-15 05:00:00,Azure,Finance,99746,High ML Risk (Pattern),0.9025561660561661,Investigate Vendor,19949.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+5261,2024-08-07 04:00:00,Google Cloud,Finance,99743,High ML Risk (Pattern),0.9076525974025974,Investigate Vendor,19948.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+8206,2024-12-07 21:00:00,IBM,IT,99738,High ML Risk (Pattern),0.9365030525030525,Investigate Vendor,19947.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+6902,2024-10-14 13:00:00,Wipro,Marketing,99737,High ML Risk (Pattern),0.9206111111111112,Investigate Vendor,19947.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+2713,2024-04-23 00:00:00,IBM,IT,99730,High ML Risk (Pattern),0.9001935286935289,Investigate Vendor,19946.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+4601,2024-07-10 16:00:00,Google Cloud,Operations,99724,High ML Risk (Pattern),0.9010357142857143,Investigate Vendor,19944.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+2419,2024-04-10 18:00:00,IBM,Marketing,99717,High ML Risk (Pattern),0.9341901154401154,Investigate Vendor,19943.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+4640,2024-07-12 07:00:00,TCS,IT,99717,High ML Risk (Pattern),0.9173917748917749,Investigate Vendor,19943.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+777,2024-02-02 08:00:00,IBM,Operations,99706,High ML Risk (Pattern),0.9324242424242424,Investigate Vendor,19941.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+1067,2024-02-14 10:00:00,AWS,IT,99704,High ML Risk (Pattern),0.8732617937617939,Investigate Vendor,19940.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+9340,2025-01-24 03:00:00,AWS,Finance,99697,High ML Risk (Pattern),0.9067112887112887,Investigate Vendor,19939.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+4970,2024-07-26 01:00:00,Google Cloud,Marketing,99694,High ML Risk (Pattern),0.9618614718614719,Investigate Vendor,19938.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+1839,2024-03-17 14:00:00,Wipro,Marketing,99679,High ML Risk (Pattern),0.909711788211788,Investigate Vendor,19935.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+537,2024-01-23 08:00:00,Infosys,Finance,99651,High ML Risk (Pattern),0.901905160199278,Investigate Vendor,19930.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+9208,2025-01-18 15:00:00,TCS,HR,99642,High ML Risk (Pattern),0.9241746031746032,Investigate Vendor,19928.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+498,2024-01-21 17:00:00,TCS,Operations,99636,High ML Risk (Pattern),0.9007503607503609,Investigate Vendor,19927.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+7059,2024-10-21 02:00:00,Azure,Finance,99629,High ML Risk (Pattern),0.8853340577551104,Investigate Vendor,19925.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+1102,2024-02-15 21:00:00,IBM,Finance,99622,High ML Risk (Pattern),0.9565,Investigate Vendor,19924.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+6021,2024-09-07 20:00:00,Infosys,Finance,99598,High ML Risk (Pattern),0.9299285714285714,Investigate Vendor,19919.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+4379,2024-07-01 10:00:00,Wipro,HR,99597,High ML Risk (Pattern),0.9471146647470178,Investigate Vendor,19919.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+6398,2024-09-23 13:00:00,IBM,IT,99580,High ML Risk (Pattern),0.9495279720279719,Investigate Vendor,19916.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+1760,2024-03-14 07:00:00,IBM,HR,99560,High ML Risk (Pattern),0.9553636363636364,Investigate Vendor,19912.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+9585,2025-02-03 08:00:00,Wipro,Operations,99557,High ML Risk (Pattern),0.9339790764790764,Investigate Vendor,19911.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+3871,2024-06-10 06:00:00,TCS,Finance,99529,High ML Risk (Pattern),0.9296103896103897,Investigate Vendor,19905.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+3309,2024-05-17 20:00:00,IBM,HR,99510,High ML Risk (Pattern),0.9821904761904762,Investigate Vendor,19902.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+8626,2024-12-25 09:00:00,Google Cloud,Finance,99505,High ML Risk (Pattern),0.8764522699522699,Investigate Vendor,19901.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+7120,2024-10-23 15:00:00,TCS,IT,99505,High ML Risk (Pattern),0.8949494949494949,Investigate Vendor,19901.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+6949,2024-10-16 12:00:00,IBM,HR,99489,High ML Risk (Pattern),0.9605000000000001,Investigate Vendor,19897.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+277,2024-01-12 12:00:00,IBM,HR,99475,High ML Risk (Pattern),0.9584960317460316,Investigate Vendor,19895.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+9035,2025-01-11 10:00:00,IBM,Operations,99474,High ML Risk (Pattern),0.91702331002331,Investigate Vendor,19894.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+8492,2024-12-19 19:00:00,AWS,Finance,99470,High ML Risk (Pattern),0.8797735597735599,Investigate Vendor,19894.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+4937,2024-07-24 16:00:00,IBM,IT,99463,High ML Risk (Pattern),0.925625,Investigate Vendor,19892.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+1034,2024-02-13 01:00:00,AWS,HR,99453,High ML Risk (Pattern),0.9544285714285714,Investigate Vendor,19890.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+8012,2024-11-29 19:00:00,Infosys,IT,99453,High ML Risk (Pattern),0.9463280834662414,Investigate Vendor,19890.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+5112,2024-07-31 23:00:00,Infosys,Marketing,99452,High ML Risk (Pattern),0.9557392607392607,Investigate Vendor,19890.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+7839,2024-11-22 14:00:00,Azure,Marketing,99429,High ML Risk (Pattern),0.8659358974358975,Investigate Vendor,19885.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+1429,2024-02-29 12:00:00,Wipro,IT,99417,High ML Risk (Pattern),0.9629616013071896,Investigate Vendor,19883.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+7475,2024-11-07 10:00:00,Wipro,IT,99415,High ML Risk (Pattern),0.9618893288084465,Investigate Vendor,19883.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+4613,2024-07-11 04:00:00,AWS,Finance,99410,High ML Risk (Pattern),0.8659191919191919,Investigate Vendor,19882.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+1080,2024-02-14 23:00:00,AWS,HR,99388,High ML Risk (Pattern),0.9308717948717948,Investigate Vendor,19877.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+5063,2024-07-29 22:00:00,Azure,Operations,99376,High ML Risk (Pattern),0.8692603328044504,Investigate Vendor,19875.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+5690,2024-08-25 01:00:00,Google Cloud,Operations,99369,High ML Risk (Pattern),0.9000944610944611,Investigate Vendor,19873.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+2472,2024-04-12 23:00:00,AWS,IT,99366,High ML Risk (Pattern),0.9267900432900434,Investigate Vendor,19873.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+3385,2024-05-21 00:00:00,AWS,Marketing,99354,High ML Risk (Pattern),0.9349125874125872,Investigate Vendor,19870.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+2570,2024-04-17 01:00:00,AWS,HR,99351,High ML Risk (Pattern),0.9458888888888888,Investigate Vendor,19870.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+8411,2024-12-16 10:00:00,Wipro,Finance,99348,High ML Risk (Pattern),0.8945333139083137,Investigate Vendor,19869.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+7047,2024-10-20 14:00:00,TCS,Operations,99345,High ML Risk (Pattern),0.9163737373737375,Investigate Vendor,19869.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+844,2024-02-05 03:00:00,Google Cloud,IT,99342,High ML Risk (Pattern),0.862848484848485,Investigate Vendor,19868.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+3572,2024-05-28 19:00:00,AWS,HR,99331,High ML Risk (Pattern),0.9590491452991452,Investigate Vendor,19866.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+6670,2024-10-04 21:00:00,TCS,IT,99329,High ML Risk (Pattern),0.9110953490953492,Investigate Vendor,19865.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+3294,2024-05-17 05:00:00,IBM,HR,99322,High ML Risk (Pattern),0.9821904761904762,Investigate Vendor,19864.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+85,2024-01-04 12:00:00,Wipro,IT,99303,High ML Risk (Pattern),0.9584049773755656,Investigate Vendor,19860.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+9485,2025-01-30 04:00:00,TCS,Finance,99279,High ML Risk (Pattern),0.9435876623376623,Investigate Vendor,19855.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+2931,2024-05-02 02:00:00,IBM,HR,99279,High ML Risk (Pattern),0.9546883116883116,Investigate Vendor,19855.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+6395,2024-09-23 10:00:00,IBM,HR,99262,High ML Risk (Pattern),0.8793039876789878,Investigate Vendor,19852.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+179,2024-01-08 10:00:00,AWS,IT,99261,High ML Risk (Pattern),0.9029563492063492,Investigate Vendor,19852.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+5939,2024-09-04 10:00:00,IBM,IT,99247,High ML Risk (Pattern),0.9485138888888889,Investigate Vendor,19849.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+1952,2024-03-22 07:00:00,Wipro,Marketing,99244,High ML Risk (Pattern),0.9467657342657343,Investigate Vendor,19848.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+5852,2024-08-31 19:00:00,Azure,Finance,99231,High ML Risk (Pattern),0.8991506981580513,Investigate Vendor,19846.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+3092,2024-05-08 19:00:00,Infosys,Finance,99228,High ML Risk (Pattern),0.9675858585858585,Investigate Vendor,19845.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+9320,2025-01-23 07:00:00,Wipro,IT,99215,High ML Risk (Pattern),0.9410604101780572,Investigate Vendor,19843.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+9009,2025-01-10 08:00:00,Azure,Operations,99200,High ML Risk (Pattern),0.9357770562770562,Investigate Vendor,19840.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+2543,2024-04-15 22:00:00,IBM,Finance,99171,High ML Risk (Pattern),0.9270700549450549,Investigate Vendor,19834.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+4549,2024-07-08 12:00:00,Azure,Operations,99163,High ML Risk (Pattern),0.8943350236364941,Investigate Vendor,19832.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+9634,2025-02-05 09:00:00,AWS,Operations,99161,High ML Risk (Pattern),0.9428404373404373,Investigate Vendor,19832.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+7782,2024-11-20 05:00:00,Google Cloud,Finance,99156,High ML Risk (Pattern),0.8475122655122656,Investigate Vendor,19831.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+893,2024-02-07 04:00:00,Infosys,Operations,99151,High ML Risk (Pattern),0.9521022408963588,Investigate Vendor,19830.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+2273,2024-04-04 16:00:00,Azure,Operations,99151,High ML Risk (Pattern),0.8988997807747809,Investigate Vendor,19830.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+4172,2024-06-22 19:00:00,Infosys,Operations,99144,High ML Risk (Pattern),0.8869312770562771,Investigate Vendor,19828.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+9671,2025-02-06 22:00:00,Wipro,Marketing,99123,High ML Risk (Pattern),0.8999368939883644,Investigate Vendor,19824.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+4329,2024-06-29 08:00:00,Google Cloud,Operations,99122,High ML Risk (Pattern),0.9039534632034634,Investigate Vendor,19824.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+3993,2024-06-15 08:00:00,Infosys,IT,99120,High ML Risk (Pattern),0.9253150621308517,Investigate Vendor,19824.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+7374,2024-11-03 05:00:00,IBM,Marketing,99115,High ML Risk (Pattern),0.8965059940059938,Investigate Vendor,19823.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+1496,2024-03-03 07:00:00,IBM,Finance,99104,High ML Risk (Pattern),0.8949842543077838,Investigate Vendor,19820.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+8578,2024-12-23 09:00:00,Azure,Marketing,99097,High ML Risk (Pattern),0.8064162672123198,Investigate Vendor,19819.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+2199,2024-04-01 14:00:00,Wipro,IT,99075,High ML Risk (Pattern),0.9504871615312793,Investigate Vendor,19815.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+8711,2024-12-28 22:00:00,Wipro,HR,99053,High ML Risk (Pattern),0.9265838205911736,Investigate Vendor,19810.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+5077,2024-07-30 12:00:00,IBM,Finance,99039,High ML Risk (Pattern),0.907784090909091,Investigate Vendor,19807.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+1997,2024-03-24 04:00:00,Infosys,HR,99026,High ML Risk (Pattern),0.8972900432900432,Investigate Vendor,19805.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+5462,2024-08-15 13:00:00,IBM,Finance,99016,High ML Risk (Pattern),0.9146709956709955,Investigate Vendor,19803.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+6064,2024-09-09 15:00:00,Infosys,Finance,98994,High ML Risk (Pattern),0.8521919498630025,Investigate Vendor,19798.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+8066,2024-12-02 01:00:00,Google Cloud,HR,98980,High ML Risk (Pattern),0.8296080390198037,Investigate Vendor,19796.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+7471,2024-11-07 06:00:00,Infosys,Operations,98977,High ML Risk (Pattern),0.9229170274170272,Investigate Vendor,19795.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+6434,2024-09-25 01:00:00,Azure,HR,98958,High ML Risk (Pattern),0.9283866718077245,Investigate Vendor,19791.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+6580,2024-10-01 03:00:00,Infosys,Marketing,98930,High ML Risk (Pattern),0.8996813186813187,Investigate Vendor,19786.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+3948,2024-06-13 11:00:00,TCS,Marketing,98919,High ML Risk (Pattern),0.9181590909090909,Investigate Vendor,19783.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+1278,2024-02-23 05:00:00,Google Cloud,Finance,98911,High ML Risk (Pattern),0.9433253968253967,Investigate Vendor,19782.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+6777,2024-10-09 08:00:00,IBM,IT,98847,High ML Risk (Pattern),0.9156538461538462,Investigate Vendor,19769.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+2224,2024-04-02 15:00:00,Wipro,HR,98847,High ML Risk (Pattern),0.9687655971479501,Investigate Vendor,19769.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+7019,2024-10-19 10:00:00,Wipro,HR,98816,High ML Risk (Pattern),0.9170741480741482,Investigate Vendor,19763.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+1972,2024-03-23 03:00:00,AWS,Operations,98813,High ML Risk (Pattern),0.9151969696969696,Investigate Vendor,19762.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+4432,2024-07-03 15:00:00,Infosys,Operations,98812,High ML Risk (Pattern),0.9434404761904761,Investigate Vendor,19762.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+8001,2024-11-29 08:00:00,IBM,Finance,98807,High ML Risk (Pattern),0.8595397935397935,Investigate Vendor,19761.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+2198,2024-04-01 13:00:00,AWS,Operations,98799,High ML Risk (Pattern),0.9382099567099565,Investigate Vendor,19759.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+2895,2024-04-30 14:00:00,Azure,Marketing,98792,High ML Risk (Pattern),0.9165280650721828,Investigate Vendor,19758.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+584,2024-01-25 07:00:00,Infosys,Marketing,98779,High ML Risk (Pattern),0.9498627859069037,Investigate Vendor,19755.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+9907,2025-02-16 18:00:00,Google Cloud,HR,98778,High ML Risk (Pattern),0.8554970760233916,Investigate Vendor,19755.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+7670,2024-11-15 13:00:00,Wipro,Finance,98773,High ML Risk (Pattern),0.9133364968364969,Investigate Vendor,19754.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+9150,2025-01-16 05:00:00,Azure,HR,98772,High ML Risk (Pattern),0.9197142857142856,Investigate Vendor,19754.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+5989,2024-09-06 12:00:00,Google Cloud,Marketing,98771,High ML Risk (Pattern),0.9575744949494949,Investigate Vendor,19754.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+6922,2024-10-15 09:00:00,Wipro,Operations,98757,High ML Risk (Pattern),0.9414874218918337,Investigate Vendor,19751.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+6672,2024-10-04 23:00:00,TCS,IT,98753,High ML Risk (Pattern),0.9227164502164501,Investigate Vendor,19750.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+6746,2024-10-08 01:00:00,IBM,Operations,98739,High ML Risk (Pattern),0.9715789473684211,Investigate Vendor,19747.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+964,2024-02-10 03:00:00,Infosys,HR,98724,High ML Risk (Pattern),0.9333955309396483,Investigate Vendor,19744.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+2631,2024-04-19 14:00:00,Google Cloud,IT,98694,High ML Risk (Pattern),0.8501666666666668,Investigate Vendor,19738.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+2000,2024-03-24 07:00:00,Azure,Finance,98686,High ML Risk (Pattern),0.9046676539834435,Investigate Vendor,19737.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+6589,2024-10-01 12:00:00,AWS,Marketing,98683,High ML Risk (Pattern),0.8983844488844487,Investigate Vendor,19736.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+4394,2024-07-02 01:00:00,Azure,IT,98661,High ML Risk (Pattern),0.932664294039294,Investigate Vendor,19732.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+8859,2025-01-04 02:00:00,Infosys,Finance,98660,High ML Risk (Pattern),0.8796255509196684,Investigate Vendor,19732.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+2088,2024-03-27 23:00:00,TCS,Operations,98639,High ML Risk (Pattern),0.9214808802308804,Investigate Vendor,19727.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+471,2024-01-20 14:00:00,TCS,IT,98631,High ML Risk (Pattern),0.9206666666666666,Investigate Vendor,19726.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+1484,2024-03-02 19:00:00,AWS,Operations,98630,High ML Risk (Pattern),0.8943682151182152,Investigate Vendor,19726.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+2930,2024-05-02 01:00:00,Google Cloud,HR,98599,High ML Risk (Pattern),0.9324368686868687,Investigate Vendor,19719.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+3791,2024-06-06 22:00:00,Google Cloud,Marketing,98583,High ML Risk (Pattern),0.888125,Investigate Vendor,19716.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+5733,2024-08-26 20:00:00,IBM,Marketing,98576,High ML Risk (Pattern),0.8862222222222224,Investigate Vendor,19715.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+5984,2024-09-06 07:00:00,Infosys,Operations,98572,High ML Risk (Pattern),0.9468888888888888,Investigate Vendor,19714.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+7957,2024-11-27 12:00:00,Wipro,HR,98567,High ML Risk (Pattern),0.9316363636363637,Investigate Vendor,19713.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+7847,2024-11-22 22:00:00,IBM,Operations,98561,High ML Risk (Pattern),0.9563062200956938,Investigate Vendor,19712.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+3482,2024-05-25 01:00:00,Infosys,HR,98556,High ML Risk (Pattern),0.9083472222222223,Investigate Vendor,19711.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+38,2024-01-02 13:00:00,TCS,Operations,98555,High ML Risk (Pattern),0.9213199665831244,Investigate Vendor,19711.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+4990,2024-07-26 21:00:00,Infosys,IT,98547,High ML Risk (Pattern),0.9394488058381246,Investigate Vendor,19709.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+742,2024-01-31 21:00:00,TCS,Operations,98540,High ML Risk (Pattern),0.9233611111111111,Investigate Vendor,19708.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+219,2024-01-10 02:00:00,AWS,Operations,98520,High ML Risk (Pattern),0.9537015484515484,Investigate Vendor,19704.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+9439,2025-01-28 06:00:00,Azure,HR,98519,High ML Risk (Pattern),0.8994319667260844,Investigate Vendor,19703.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+1023,2024-02-12 14:00:00,Google Cloud,Operations,98507,High ML Risk (Pattern),0.8924437229437229,Investigate Vendor,19701.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+4539,2024-07-08 02:00:00,AWS,Marketing,98504,High ML Risk (Pattern),0.8847718253968253,Investigate Vendor,19700.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+9985,2025-02-20 00:00:00,IBM,Finance,98501,High ML Risk (Pattern),0.9264444444444443,Investigate Vendor,19700.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+7090,2024-10-22 09:00:00,AWS,Operations,98486,High ML Risk (Pattern),0.9274688644688643,Investigate Vendor,19697.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+7367,2024-11-02 22:00:00,TCS,Marketing,98481,High ML Risk (Pattern),0.9046093906093905,Investigate Vendor,19696.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+5254,2024-08-06 21:00:00,AWS,HR,98480,High ML Risk (Pattern),0.8358848994143112,Investigate Vendor,19696.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+9576,2025-02-02 23:00:00,Infosys,Finance,98464,High ML Risk (Pattern),0.8688081860949507,Investigate Vendor,19692.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+506,2024-01-22 01:00:00,AWS,HR,98449,High ML Risk (Pattern),0.9318154761904763,Investigate Vendor,19689.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+4590,2024-07-10 05:00:00,AWS,IT,98449,High ML Risk (Pattern),0.919457611832612,Investigate Vendor,19689.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+1216,2024-02-20 15:00:00,IBM,HR,98445,High ML Risk (Pattern),0.9281453823953824,Investigate Vendor,19689.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+4196,2024-06-23 19:00:00,Google Cloud,HR,98435,High ML Risk (Pattern),0.9013333333333332,Investigate Vendor,19687.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+6921,2024-10-15 08:00:00,AWS,Finance,98435,High ML Risk (Pattern),0.8976671122994653,Investigate Vendor,19687.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+2865,2024-04-29 08:00:00,IBM,Operations,98421,High ML Risk (Pattern),0.9136022033522032,Investigate Vendor,19684.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+5625,2024-08-22 08:00:00,IBM,IT,98417,High ML Risk (Pattern),0.9760882352941177,Investigate Vendor,19683.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+7336,2024-11-01 15:00:00,AWS,Finance,98409,High ML Risk (Pattern),0.8761422205245735,Investigate Vendor,19681.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+9538,2025-02-01 09:00:00,Azure,IT,98400,High ML Risk (Pattern),0.9400919913419915,Investigate Vendor,19680.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+2573,2024-04-17 04:00:00,TCS,Finance,98398,High ML Risk (Pattern),0.9588181818181819,Investigate Vendor,19679.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+9553,2025-02-02 00:00:00,Azure,HR,98393,High ML Risk (Pattern),0.9372341269841269,Investigate Vendor,19678.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+3432,2024-05-22 23:00:00,TCS,IT,98392,High ML Risk (Pattern),0.9116994949494949,Investigate Vendor,19678.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+5180,2024-08-03 19:00:00,Infosys,Finance,98379,High ML Risk (Pattern),0.8772543290043289,Investigate Vendor,19675.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+863,2024-02-05 22:00:00,Infosys,HR,98375,High ML Risk (Pattern),0.9244287477228653,Investigate Vendor,19675.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+4309,2024-06-28 12:00:00,Infosys,IT,98371,High ML Risk (Pattern),0.9533150621308516,Investigate Vendor,19674.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+9644,2025-02-05 19:00:00,IBM,IT,98368,High ML Risk (Pattern),0.9306944444444446,Investigate Vendor,19673.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+9520,2025-01-31 15:00:00,Azure,HR,98367,High ML Risk (Pattern),0.939018981018981,Investigate Vendor,19673.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+4354,2024-06-30 09:00:00,Wipro,Operations,98357,High ML Risk (Pattern),0.882417775035422,Investigate Vendor,19671.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+6540,2024-09-29 11:00:00,Azure,Marketing,98354,High ML Risk (Pattern),0.9016551956815116,Investigate Vendor,19670.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+6755,2024-10-08 10:00:00,Google Cloud,IT,98332,High ML Risk (Pattern),0.8499125874125874,Investigate Vendor,19666.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+3631,2024-05-31 06:00:00,IBM,HR,98328,High ML Risk (Pattern),0.9593055555555554,Investigate Vendor,19665.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+9174,2025-01-17 05:00:00,IBM,Finance,98322,High ML Risk (Pattern),0.9231547619047619,Investigate Vendor,19664.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+9753,2025-02-10 08:00:00,Infosys,Marketing,98309,High ML Risk (Pattern),0.8837426739926739,Investigate Vendor,19661.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+8515,2024-12-20 18:00:00,Infosys,Marketing,98305,High ML Risk (Pattern),0.9048349567099568,Investigate Vendor,19661.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+3383,2024-05-20 22:00:00,Infosys,HR,98294,High ML Risk (Pattern),0.8836655011655011,Investigate Vendor,19658.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+40,2024-01-02 15:00:00,IBM,Operations,98289,High ML Risk (Pattern),0.9312272727272726,Investigate Vendor,19657.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+1281,2024-02-23 08:00:00,Infosys,Finance,98288,High ML Risk (Pattern),0.9310223318992668,Investigate Vendor,19657.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+2270,2024-04-04 13:00:00,Azure,Operations,98284,High ML Risk (Pattern),0.9501752136752137,Investigate Vendor,19656.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+3967,2024-06-14 06:00:00,Wipro,Finance,98276,High ML Risk (Pattern),0.8727993950493951,Investigate Vendor,19655.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+2607,2024-04-18 14:00:00,Wipro,HR,98275,High ML Risk (Pattern),0.9799019607843137,Investigate Vendor,19655.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+5689,2024-08-25 00:00:00,TCS,Operations,98267,High ML Risk (Pattern),0.8829592074592075,Investigate Vendor,19653.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+2860,2024-04-29 03:00:00,Azure,Finance,98255,High ML Risk (Pattern),0.9025882728382727,Investigate Vendor,19651.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+8513,2024-12-20 16:00:00,Google Cloud,Marketing,98239,High ML Risk (Pattern),0.8488234265734264,Investigate Vendor,19647.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+5330,2024-08-10 01:00:00,Wipro,Marketing,98229,High ML Risk (Pattern),0.9219841269841269,Investigate Vendor,19645.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+3822,2024-06-08 05:00:00,IBM,IT,98217,High ML Risk (Pattern),0.9309453781512605,Investigate Vendor,19643.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+6060,2024-09-09 11:00:00,AWS,Finance,98208,High ML Risk (Pattern),0.823897977022977,Investigate Vendor,19641.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+2926,2024-05-01 21:00:00,IBM,Operations,98201,High ML Risk (Pattern),0.9582173382173383,Investigate Vendor,19640.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+8321,2024-12-12 16:00:00,AWS,Operations,98192,High ML Risk (Pattern),0.8899639249639248,Investigate Vendor,19638.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+4243,2024-06-25 18:00:00,Wipro,Operations,98180,High ML Risk (Pattern),0.9350061645870469,Investigate Vendor,19636.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+2336,2024-04-07 07:00:00,Azure,Operations,98180,High ML Risk (Pattern),0.933871794871795,Investigate Vendor,19636.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+6205,2024-09-15 12:00:00,Azure,IT,98179,High ML Risk (Pattern),0.8648247863247864,Investigate Vendor,19635.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+575,2024-01-24 22:00:00,AWS,IT,98158,High ML Risk (Pattern),0.9277070707070706,Investigate Vendor,19631.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+9948,2025-02-18 11:00:00,TCS,Operations,98155,High ML Risk (Pattern),0.8868308080808082,Investigate Vendor,19631.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+8896,2025-01-05 15:00:00,Azure,Finance,98153,High ML Risk (Pattern),0.8500986119144014,Investigate Vendor,19630.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+6228,2024-09-16 11:00:00,TCS,Marketing,98138,High ML Risk (Pattern),0.927467978658768,Investigate Vendor,19627.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+8199,2024-12-07 14:00:00,IBM,IT,98127,High ML Risk (Pattern),0.9194444444444444,Investigate Vendor,19625.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+7666,2024-11-15 09:00:00,TCS,HR,98098,High ML Risk (Pattern),0.9295833333333334,Investigate Vendor,19619.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+5363,2024-08-11 10:00:00,Azure,Finance,98081,High ML Risk (Pattern),0.8341593567251462,Investigate Vendor,19616.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+1524,2024-03-04 11:00:00,AWS,Marketing,98079,High ML Risk (Pattern),0.8920859973359976,Investigate Vendor,19615.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+2436,2024-04-11 11:00:00,IBM,Operations,98069,High ML Risk (Pattern),0.9438888888888889,Investigate Vendor,19613.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+8159,2024-12-05 22:00:00,IBM,Marketing,98065,High ML Risk (Pattern),0.9005769873401451,Investigate Vendor,19613.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+6376,2024-09-22 15:00:00,Google Cloud,Marketing,98052,High ML Risk (Pattern),0.8715436507936506,Investigate Vendor,19610.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+1069,2024-02-14 12:00:00,AWS,Marketing,98047,High ML Risk (Pattern),0.8859999999999999,Investigate Vendor,19609.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+5016,2024-07-27 23:00:00,Azure,IT,98046,High ML Risk (Pattern),0.9340238095238097,Investigate Vendor,19609.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+1729,2024-03-13 00:00:00,AWS,Marketing,98031,High ML Risk (Pattern),0.907459706959707,Investigate Vendor,19606.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+7876,2024-11-24 03:00:00,AWS,Operations,97996,High ML Risk (Pattern),0.8863607503607502,Investigate Vendor,19599.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+7744,2024-11-18 15:00:00,IBM,IT,97993,High ML Risk (Pattern),0.9175279720279719,Investigate Vendor,19598.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+7372,2024-11-03 03:00:00,Google Cloud,Finance,97988,High ML Risk (Pattern),0.87575,Investigate Vendor,19597.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+4424,2024-07-03 07:00:00,Infosys,Finance,97985,High ML Risk (Pattern),0.9411136363636365,Investigate Vendor,19597.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+3202,2024-05-13 09:00:00,IBM,HR,97981,High ML Risk (Pattern),0.9203969502719501,Investigate Vendor,19596.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+7306,2024-10-31 09:00:00,Wipro,IT,97969,High ML Risk (Pattern),0.9415259838201016,Investigate Vendor,19593.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+5324,2024-08-09 19:00:00,IBM,Marketing,97951,High ML Risk (Pattern),0.9123881673881674,Investigate Vendor,19590.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+2942,2024-05-02 13:00:00,Azure,HR,97946,High ML Risk (Pattern),0.9566031746031747,Investigate Vendor,19589.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+9272,2025-01-21 07:00:00,IBM,Operations,97939,High ML Risk (Pattern),0.927768740031898,Investigate Vendor,19587.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+4507,2024-07-06 18:00:00,Azure,Finance,97921,High ML Risk (Pattern),0.8623995726495727,Investigate Vendor,19584.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+5060,2024-07-29 19:00:00,Azure,Marketing,97920,High ML Risk (Pattern),0.9332946889711594,Investigate Vendor,19584.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+875,2024-02-06 10:00:00,TCS,HR,97917,High ML Risk (Pattern),0.9326388888888889,Investigate Vendor,19583.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+3112,2024-05-09 15:00:00,Infosys,IT,97912,High ML Risk (Pattern),0.9398452380952382,Investigate Vendor,19582.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+3331,2024-05-18 18:00:00,IBM,IT,97905,High ML Risk (Pattern),0.8758324175824176,Investigate Vendor,19581.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+4882,2024-07-22 09:00:00,Infosys,Operations,97889,High ML Risk (Pattern),0.8852797202797202,Investigate Vendor,19577.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+5128,2024-08-01 15:00:00,Wipro,Marketing,97857,High ML Risk (Pattern),0.9268173076923076,Investigate Vendor,19571.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+903,2024-02-07 14:00:00,Azure,Marketing,97854,High ML Risk (Pattern),0.8740525748761043,Investigate Vendor,19570.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+2874,2024-04-29 17:00:00,TCS,IT,97853,High ML Risk (Pattern),0.8949973262032087,Investigate Vendor,19570.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+9539,2025-02-01 10:00:00,Google Cloud,Finance,97847,High ML Risk (Pattern),0.8872871715487816,Investigate Vendor,19569.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+3508,2024-05-26 03:00:00,TCS,Finance,97822,High ML Risk (Pattern),0.8346194083694084,Investigate Vendor,19564.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+4267,2024-06-26 18:00:00,Infosys,Finance,97818,High ML Risk (Pattern),0.9312525252525253,Investigate Vendor,19563.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+7657,2024-11-15 00:00:00,Azure,IT,97794,High ML Risk (Pattern),0.8423561454884986,Investigate Vendor,19558.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+4677,2024-07-13 20:00:00,Wipro,Marketing,97782,High ML Risk (Pattern),0.8400065783889313,Investigate Vendor,19556.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+6939,2024-10-16 02:00:00,AWS,Marketing,97777,High ML Risk (Pattern),0.8331365856365857,Investigate Vendor,19555.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+4489,2024-07-06 00:00:00,Infosys,Operations,97775,High ML Risk (Pattern),0.88490502716238,Investigate Vendor,19555.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+3305,2024-05-17 16:00:00,Google Cloud,Finance,97753,High ML Risk (Pattern),0.8823162931839401,Investigate Vendor,19550.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+8245,2024-12-09 12:00:00,Wipro,HR,97742,High ML Risk (Pattern),0.8747047829621358,Investigate Vendor,19548.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+2949,2024-05-02 20:00:00,Wipro,Finance,97706,High ML Risk (Pattern),0.9182994227994228,Investigate Vendor,19541.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+9511,2025-01-31 06:00:00,TCS,HR,97683,High ML Risk (Pattern),0.9281601731601731,Investigate Vendor,19536.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+7796,2024-11-20 19:00:00,IBM,HR,97666,High ML Risk (Pattern),0.8107996880570412,Investigate Vendor,19533.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+2061,2024-03-26 20:00:00,IBM,Marketing,97666,High ML Risk (Pattern),0.8456807359307358,Investigate Vendor,19533.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+1039,2024-02-13 06:00:00,Azure,HR,97665,High ML Risk (Pattern),0.9332385620915032,Investigate Vendor,19533.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+2627,2024-04-19 10:00:00,TCS,Finance,97643,High ML Risk (Pattern),0.9085997474747474,Investigate Vendor,19528.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+5788,2024-08-29 03:00:00,Azure,HR,97629,High ML Risk (Pattern),0.8815225166989873,Investigate Vendor,19525.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+8974,2025-01-08 21:00:00,Wipro,IT,97626,High ML Risk (Pattern),0.9312015141721025,Investigate Vendor,19525.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+1745,2024-03-13 16:00:00,Wipro,HR,97623,High ML Risk (Pattern),0.940184789067142,Investigate Vendor,19524.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+4722,2024-07-15 17:00:00,Azure,Marketing,97621,High ML Risk (Pattern),0.8571450053214759,Investigate Vendor,19524.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+5427,2024-08-14 02:00:00,AWS,IT,97590,High ML Risk (Pattern),0.874355848399966,Investigate Vendor,19518.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+2369,2024-04-08 16:00:00,TCS,Operations,97576,High ML Risk (Pattern),0.9038491639079873,Investigate Vendor,19515.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+6270,2024-09-18 05:00:00,Azure,Operations,97565,High ML Risk (Pattern),0.9083821322296555,Investigate Vendor,19513.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+6784,2024-10-09 15:00:00,Infosys,IT,97559,High ML Risk (Pattern),0.8233031794486904,Investigate Vendor,19511.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+8320,2024-12-12 15:00:00,Azure,Operations,97558,High ML Risk (Pattern),0.8519701997349057,Investigate Vendor,19511.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+664,2024-01-28 15:00:00,AWS,HR,97554,High ML Risk (Pattern),0.8245019522960699,Investigate Vendor,19510.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+8788,2025-01-01 03:00:00,Infosys,Marketing,97550,High ML Risk (Pattern),0.87178081232493,Investigate Vendor,19510.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+5244,2024-08-06 11:00:00,TCS,Finance,97548,High ML Risk (Pattern),0.8696158433070198,Investigate Vendor,19509.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+1944,2024-03-21 23:00:00,Azure,IT,97531,High ML Risk (Pattern),0.9127803030303032,Investigate Vendor,19506.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+9772,2025-02-11 03:00:00,Wipro,HR,97500,High ML Risk (Pattern),0.8347116755793228,Investigate Vendor,19500.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+4890,2024-07-22 17:00:00,Infosys,HR,97490,High ML Risk (Pattern),0.8211056166056165,Investigate Vendor,19498.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+4171,2024-06-22 18:00:00,TCS,Marketing,97487,High ML Risk (Pattern),0.8453786589227765,Investigate Vendor,19497.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+8448,2024-12-17 23:00:00,TCS,HR,97485,High ML Risk (Pattern),0.844311337355455,Investigate Vendor,19497.0,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+4185,2024-06-23 08:00:00,TCS,Marketing,97481,High ML Risk (Pattern),0.8556405914347092,Investigate Vendor,19496.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+9162,2025-01-16 17:00:00,Azure,HR,97458,High ML Risk (Pattern),0.8661085858585857,Investigate Vendor,19491.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+4217,2024-06-24 16:00:00,Azure,Finance,97447,High ML Risk (Pattern),0.7608534096622331,Investigate Vendor,19489.4,Monitor,Vendor Flagged for Review
+7187,2024-10-26 10:00:00,Azure,IT,97429,High ML Risk (Pattern),0.8152567693744165,Investigate Vendor,19485.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+4606,2024-07-10 21:00:00,TCS,Operations,97421,High ML Risk (Pattern),0.8716524801308081,Investigate Vendor,19484.2,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+7303,2024-10-31 06:00:00,Wipro,Finance,97421,High ML Risk (Pattern),0.7905615334957439,Investigate Vendor,19484.2,Monitor,Vendor Flagged for Review
+2130,2024-03-29 17:00:00,IBM,Operations,97384,High ML Risk (Pattern),0.8251587579087578,Investigate Vendor,19476.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+4814,2024-07-19 13:00:00,IBM,IT,97367,High ML Risk (Pattern),0.8397006604506605,Investigate Vendor,19473.4,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+8692,2024-12-28 03:00:00,Wipro,IT,97279,High ML Risk (Pattern),0.8017787052129157,Investigate Vendor,19455.8,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+4961,2024-07-25 16:00:00,TCS,Operations,97242,High ML Risk (Pattern),0.7807277561619665,Investigate Vendor,19448.4,Monitor,Vendor Flagged for Review
+6124,2024-09-12 03:00:00,Wipro,Marketing,97238,High ML Risk (Pattern),0.8353825180667286,Investigate Vendor,19447.6,HIGH PRIORITY REVIEW,Vendor Flagged for Review
+3264,2024-05-15 23:00:00,Infosys,HR,97220,High ML Risk (Pattern),0.7893771068113173,Investigate Vendor,19444.0,Monitor,Vendor Flagged for Review
+9516,2025-01-31 11:00:00,Azure,IT,97212,High ML Risk (Pattern),0.7722756132756132,Investigate Vendor,19442.4,Monitor,Vendor Flagged for Review
+4403,2024-07-02 10:00:00,IBM,HR,97177,High ML Risk (Pattern),0.7589614274614276,Investigate Vendor,19435.4,Monitor,Vendor Flagged for Review
+507,2024-01-22 02:00:00,Infosys,IT,97819,Category Overspend,0.7282346681096682,Alert Department Head,14672.85,Monitor,Alert Sent to Manager
+4180,2024-06-23 03:00:00,AWS,Finance,97404,Category Overspend,0.7385182809966092,Alert Department Head,14610.6,Monitor,Alert Sent to Manager
+2943,2024-05-02 14:00:00,Infosys,Operations,97344,Category Overspend,0.7345825957668063,Alert Department Head,14601.6,Monitor,Alert Sent to Manager
+129,2024-01-06 08:00:00,Google Cloud,Operations,97319,Category Overspend,0.6928059440559441,Alert Department Head,14597.85,Monitor,Alert Sent to Manager
+6505,2024-09-28 00:00:00,AWS,HR,97256,Category Overspend,0.6885073376915481,Alert Department Head,14588.4,Monitor,Alert Sent to Manager
+2230,2024-04-02 21:00:00,AWS,Operations,97171,Category Overspend,0.6926826068668173,Alert Department Head,14575.65,Monitor,Alert Sent to Manager
+9273,2025-01-21 08:00:00,Wipro,Finance,97159,Category Overspend,0.7204418257181415,Alert Department Head,14573.85,Monitor,Alert Sent to Manager
+6780,2024-10-09 11:00:00,Google Cloud,Finance,97134,Category Overspend,0.6229186665587595,Alert Department Head,14570.1,Monitor,Alert Sent to Manager
+6001,2024-09-07 00:00:00,Wipro,IT,97111,Category Overspend,0.696546992481203,Alert Department Head,14566.65,Monitor,Alert Sent to Manager
+3496,2024-05-25 15:00:00,IBM,Operations,97102,Category Overspend,0.664491452991453,Alert Department Head,14565.3,Monitor,Alert Sent to Manager
+7087,2024-10-22 06:00:00,Azure,IT,97093,Category Overspend,0.7413561862114494,Alert Department Head,14563.95,Monitor,Alert Sent to Manager
+8233,2024-12-09 00:00:00,IBM,Operations,96969,Category Overspend,0.5533560579427453,Alert Department Head,14545.35,Monitor,Alert Sent to Manager
+5642,2024-08-23 01:00:00,AWS,Operations,96909,Category Overspend,0.5949990126832232,Alert Department Head,14536.35,Monitor,Alert Sent to Manager
+7874,2024-11-24 01:00:00,Wipro,HR,96885,Category Overspend,0.5430487407329511,Alert Department Head,14532.75,Monitor,Alert Sent to Manager
+5129,2024-08-01 16:00:00,Google Cloud,Marketing,96849,Category Overspend,0.6038971145813252,Alert Department Head,14527.35,Monitor,Alert Sent to Manager
+1207,2024-02-20 06:00:00,Azure,IT,96797,Category Overspend,0.6553932595182596,Alert Department Head,14519.55,Monitor,Alert Sent to Manager
+1187,2024-02-19 10:00:00,Google Cloud,Operations,96773,Category Overspend,0.6179173326673326,Alert Department Head,14515.95,Monitor,Alert Sent to Manager
+8123,2024-12-04 10:00:00,Azure,IT,96768,Category Overspend,0.6224982794982796,Alert Department Head,14515.2,Monitor,Alert Sent to Manager
+569,2024-01-24 16:00:00,AWS,Operations,96719,Category Overspend,0.5396373626373626,Alert Department Head,14507.85,Monitor,Alert Sent to Manager
+9915,2025-02-17 02:00:00,Azure,HR,96672,Category Overspend,0.5131430056871233,Alert Department Head,14500.8,Monitor,Alert Sent to Manager
+3284,2024-05-16 19:00:00,Azure,Finance,3413,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,341.3,Monitor,Logged for Monitoring
+310,2024-01-13 21:00:00,AWS,Marketing,3407,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,340.7,Monitor,Logged for Monitoring
+69,2024-01-03 20:00:00,TCS,Marketing,3387,Statistical Outlier (Isolation Forest),0.009456709956709955,Flag for Audit,338.7,Monitor,Logged for Monitoring
+1186,2024-02-19 09:00:00,TCS,IT,3379,Statistical Outlier (Isolation Forest),0.0007692307692307692,Flag for Audit,337.9,Monitor,Logged for Monitoring
+4886,2024-07-22 13:00:00,Wipro,Operations,3369,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,336.9,Monitor,Logged for Monitoring
+7186,2024-10-26 09:00:00,Google Cloud,Operations,3355,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,335.5,Monitor,Logged for Monitoring
+1885,2024-03-19 12:00:00,Infosys,HR,3335,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,333.5,Monitor,Logged for Monitoring
+5687,2024-08-24 22:00:00,AWS,Operations,3315,Statistical Outlier (Isolation Forest),0.0030681818181818184,Flag for Audit,331.5,Monitor,Logged for Monitoring
+7720,2024-11-17 15:00:00,AWS,HR,3134,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,313.4,Monitor,Logged for Monitoring
+2383,2024-04-09 06:00:00,TCS,Finance,3118,Statistical Outlier (Isolation Forest),0.0018181818181818182,Flag for Audit,311.8,Monitor,Logged for Monitoring
+5637,2024-08-22 20:00:00,AWS,HR,3108,Statistical Outlier (Isolation Forest),0.003472222222222222,Flag for Audit,310.8,Monitor,Logged for Monitoring
+4554,2024-07-08 17:00:00,TCS,Finance,3106,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,310.6,Monitor,Logged for Monitoring
+127,2024-01-06 06:00:00,IBM,IT,3093,Statistical Outlier (Isolation Forest),0.007619047619047619,Flag for Audit,309.3,Monitor,Logged for Monitoring
+7114,2024-10-23 09:00:00,Infosys,IT,3080,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,308.0,Monitor,Logged for Monitoring
+2242,2024-04-03 09:00:00,Wipro,Finance,3076,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,307.6,Monitor,Logged for Monitoring
+9412,2025-01-27 03:00:00,Azure,HR,3068,Statistical Outlier (Isolation Forest),0.015984126984126983,Flag for Audit,306.8,Monitor,Logged for Monitoring
+2303,2024-04-05 22:00:00,Wipro,HR,3064,Statistical Outlier (Isolation Forest),0.0007692307692307692,Flag for Audit,306.4,Monitor,Logged for Monitoring
+2859,2024-04-29 02:00:00,TCS,Finance,3056,Statistical Outlier (Isolation Forest),0.0021428571428571425,Flag for Audit,305.6,Monitor,Logged for Monitoring
+1695,2024-03-11 14:00:00,Google Cloud,IT,3035,Statistical Outlier (Isolation Forest),0.014181818181818183,Flag for Audit,303.5,Monitor,Logged for Monitoring
+8929,2025-01-07 00:00:00,IBM,HR,3014,Statistical Outlier (Isolation Forest),0.004666666666666667,Flag for Audit,301.4,Monitor,Logged for Monitoring
+7768,2024-11-19 15:00:00,Azure,HR,3002,Statistical Outlier (Isolation Forest),0.002857142857142857,Flag for Audit,300.2,Monitor,Logged for Monitoring
+3938,2024-06-13 01:00:00,Wipro,Finance,2987,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,298.7,Monitor,Logged for Monitoring
+5432,2024-08-14 07:00:00,Infosys,HR,2982,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,298.2,Monitor,Logged for Monitoring
+5226,2024-08-05 17:00:00,Google Cloud,Finance,2982,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,298.2,Monitor,Logged for Monitoring
+4469,2024-07-05 04:00:00,IBM,Finance,2979,Statistical Outlier (Isolation Forest),0.0026515151515151512,Flag for Audit,297.9,Monitor,Logged for Monitoring
+5369,2024-08-11 16:00:00,Azure,IT,2963,Statistical Outlier (Isolation Forest),0.013893557422969187,Flag for Audit,296.3,Monitor,Logged for Monitoring
+4283,2024-06-27 10:00:00,IBM,Finance,2949,Statistical Outlier (Isolation Forest),0.008318181818181818,Flag for Audit,294.9,Monitor,Logged for Monitoring
+9229,2025-01-19 12:00:00,Azure,Marketing,2943,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,294.3,Monitor,Logged for Monitoring
+8029,2024-11-30 12:00:00,IBM,Finance,2935,Statistical Outlier (Isolation Forest),0.0041025641025641026,Flag for Audit,293.5,Monitor,Logged for Monitoring
+3755,2024-06-05 10:00:00,Infosys,Marketing,2933,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,293.3,Monitor,Logged for Monitoring
+877,2024-02-06 12:00:00,Infosys,HR,2908,Statistical Outlier (Isolation Forest),0.0022222222222222222,Flag for Audit,290.8,Monitor,Logged for Monitoring
+3275,2024-05-16 10:00:00,Wipro,Operations,2908,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,290.8,Monitor,Logged for Monitoring
+6492,2024-09-27 11:00:00,Infosys,Finance,2902,Statistical Outlier (Isolation Forest),0.0050757575757575755,Flag for Audit,290.2,Monitor,Logged for Monitoring
+9244,2025-01-20 03:00:00,TCS,Finance,2891,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,289.1,Monitor,Logged for Monitoring
+9476,2025-01-29 19:00:00,Azure,IT,2869,Statistical Outlier (Isolation Forest),0.0032559523809523806,Flag for Audit,286.9,Monitor,Logged for Monitoring
+2090,2024-03-28 01:00:00,AWS,HR,2868,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,286.8,Monitor,Logged for Monitoring
+4960,2024-07-25 15:00:00,TCS,Operations,2865,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,286.5,Monitor,Logged for Monitoring
+8530,2024-12-21 09:00:00,Infosys,Finance,2861,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,286.1,Monitor,Logged for Monitoring
+7449,2024-11-06 08:00:00,AWS,Marketing,2847,Statistical Outlier (Isolation Forest),0.004538461538461538,Flag for Audit,284.7,Monitor,Logged for Monitoring
+8962,2025-01-08 09:00:00,Infosys,HR,2835,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,283.5,Monitor,Logged for Monitoring
+7409,2024-11-04 16:00:00,Wipro,IT,2833,Statistical Outlier (Isolation Forest),0.0007692307692307692,Flag for Audit,283.3,Monitor,Logged for Monitoring
+9490,2025-01-30 09:00:00,Wipro,Finance,2825,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,282.5,Monitor,Logged for Monitoring
+5021,2024-07-28 04:00:00,TCS,HR,2821,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,282.1,Monitor,Logged for Monitoring
+73,2024-01-04 00:00:00,TCS,Finance,2799,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,279.9,Monitor,Logged for Monitoring
+2473,2024-04-13 00:00:00,AWS,Marketing,2783,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,278.3,Monitor,Logged for Monitoring
+6371,2024-09-22 10:00:00,IBM,Marketing,2780,Statistical Outlier (Isolation Forest),0.005091093117408907,Flag for Audit,278.0,Monitor,Logged for Monitoring
+3743,2024-06-04 22:00:00,AWS,Finance,2776,Statistical Outlier (Isolation Forest),0.0027142857142857147,Flag for Audit,277.6,Monitor,Logged for Monitoring
+7280,2024-10-30 07:00:00,Google Cloud,HR,2772,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,277.2,Monitor,Logged for Monitoring
+1831,2024-03-17 06:00:00,Wipro,Finance,2769,Statistical Outlier (Isolation Forest),0.0017647058823529412,Flag for Audit,276.9,Monitor,Logged for Monitoring
+9179,2025-01-17 10:00:00,IBM,Operations,2767,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,276.7,Monitor,Logged for Monitoring
+5991,2024-09-06 14:00:00,IBM,HR,2753,Statistical Outlier (Isolation Forest),0.003484848484848485,Flag for Audit,275.3,Monitor,Logged for Monitoring
+7974,2024-11-28 05:00:00,TCS,Operations,2745,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,274.5,Monitor,Logged for Monitoring
+9999,2025-02-20 14:00:00,Google Cloud,Operations,2713,Statistical Outlier (Isolation Forest),0.0019090909090909091,Flag for Audit,271.3,Monitor,Logged for Monitoring
+4868,2024-07-21 19:00:00,Infosys,HR,2694,Statistical Outlier (Isolation Forest),0.0061233766233766244,Flag for Audit,269.4,Monitor,Logged for Monitoring
+9113,2025-01-14 16:00:00,TCS,IT,2674,Statistical Outlier (Isolation Forest),0.009166666666666667,Flag for Audit,267.4,Monitor,Logged for Monitoring
+4029,2024-06-16 20:00:00,Infosys,Marketing,2663,Statistical Outlier (Isolation Forest),0.0018253968253968253,Flag for Audit,266.3,Monitor,Logged for Monitoring
+3555,2024-05-28 02:00:00,IBM,IT,2658,Statistical Outlier (Isolation Forest),0.006444444444444444,Flag for Audit,265.8,Monitor,Logged for Monitoring
+4523,2024-07-07 10:00:00,Infosys,IT,2648,Statistical Outlier (Isolation Forest),0.0016666666666666666,Flag for Audit,264.8,Monitor,Logged for Monitoring
+2647,2024-04-20 06:00:00,AWS,Marketing,2643,Statistical Outlier (Isolation Forest),0.0026515151515151512,Flag for Audit,264.3,Monitor,Logged for Monitoring
+9920,2025-02-17 07:00:00,Google Cloud,Marketing,2634,Statistical Outlier (Isolation Forest),0.0023376623376623377,Flag for Audit,263.4,Monitor,Logged for Monitoring
+795,2024-02-03 02:00:00,Azure,Finance,2617,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,261.7,Monitor,Logged for Monitoring
+9389,2025-01-26 04:00:00,IBM,Marketing,2611,Statistical Outlier (Isolation Forest),0.0025,Flag for Audit,261.1,Monitor,Logged for Monitoring
+2454,2024-04-12 05:00:00,AWS,IT,2607,Statistical Outlier (Isolation Forest),0.016790043290043286,Flag for Audit,260.7,Monitor,Logged for Monitoring
+4202,2024-06-24 01:00:00,TCS,HR,2607,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,260.7,Monitor,Logged for Monitoring
+2143,2024-03-30 06:00:00,Google Cloud,Operations,2607,Statistical Outlier (Isolation Forest),0.009136002886002885,Flag for Audit,260.7,Monitor,Logged for Monitoring
+7535,2024-11-09 22:00:00,AWS,HR,2601,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,260.1,Monitor,Logged for Monitoring
+492,2024-01-21 11:00:00,Infosys,Finance,2600,Statistical Outlier (Isolation Forest),0.005793650793650793,Flag for Audit,260.0,Monitor,Logged for Monitoring
+8983,2025-01-09 06:00:00,Azure,Operations,2573,Statistical Outlier (Isolation Forest),0.0019090909090909091,Flag for Audit,257.3,Monitor,Logged for Monitoring
+4746,2024-07-16 17:00:00,TCS,Operations,2567,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,256.7,Monitor,Logged for Monitoring
+2064,2024-03-26 23:00:00,Infosys,IT,2561,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,256.1,Monitor,Logged for Monitoring
+8724,2024-12-29 11:00:00,Azure,Finance,2552,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,255.2,Monitor,Logged for Monitoring
+702,2024-01-30 05:00:00,Google Cloud,Finance,2532,Statistical Outlier (Isolation Forest),0.0016666666666666666,Flag for Audit,253.2,Monitor,Logged for Monitoring
+1412,2024-02-28 19:00:00,Wipro,HR,2528,Statistical Outlier (Isolation Forest),0.003333333333333333,Flag for Audit,252.8,Monitor,Logged for Monitoring
+8311,2024-12-12 06:00:00,AWS,IT,2525,Statistical Outlier (Isolation Forest),0.008959207459207459,Flag for Audit,252.5,Monitor,Logged for Monitoring
+15,2024-01-01 14:00:00,TCS,Operations,2511,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,251.1,Monitor,Logged for Monitoring
+1985,2024-03-23 16:00:00,TCS,HR,2505,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,250.5,Monitor,Logged for Monitoring
+7093,2024-10-22 12:00:00,Infosys,HR,2504,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,250.4,Monitor,Logged for Monitoring
+3155,2024-05-11 10:00:00,IBM,Marketing,2476,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,247.6,Monitor,Logged for Monitoring
+5061,2024-07-29 20:00:00,TCS,Marketing,2461,Statistical Outlier (Isolation Forest),0.003076923076923077,Flag for Audit,246.1,Monitor,Logged for Monitoring
+4875,2024-07-22 02:00:00,Wipro,Marketing,2460,Statistical Outlier (Isolation Forest),0.0013333333333333333,Flag for Audit,246.0,Monitor,Logged for Monitoring
+1320,2024-02-24 23:00:00,TCS,Finance,2436,Statistical Outlier (Isolation Forest),0.0015384615384615385,Flag for Audit,243.6,Monitor,Logged for Monitoring
+6546,2024-09-29 17:00:00,TCS,IT,2436,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,243.6,Monitor,Logged for Monitoring
+8088,2024-12-02 23:00:00,AWS,Marketing,2431,Statistical Outlier (Isolation Forest),0.0019090909090909091,Flag for Audit,243.1,Monitor,Logged for Monitoring
+6453,2024-09-25 20:00:00,Google Cloud,IT,2403,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,240.3,Monitor,Logged for Monitoring
+4086,2024-06-19 05:00:00,Azure,Operations,2358,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,235.8,Monitor,Logged for Monitoring
+4763,2024-07-17 10:00:00,Infosys,Operations,2354,Statistical Outlier (Isolation Forest),0.006628787878787878,Flag for Audit,235.4,Monitor,Logged for Monitoring
+3748,2024-06-05 03:00:00,TCS,Operations,2333,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,233.3,Monitor,Logged for Monitoring
+1056,2024-02-13 23:00:00,TCS,IT,2320,Statistical Outlier (Isolation Forest),0.0022222222222222222,Flag for Audit,232.0,Monitor,Logged for Monitoring
+4533,2024-07-07 20:00:00,Infosys,Operations,2316,Statistical Outlier (Isolation Forest),0.0006666666666666666,Flag for Audit,231.6,Monitor,Logged for Monitoring
+3721,2024-06-04 00:00:00,TCS,Marketing,2310,Statistical Outlier (Isolation Forest),0.0011111111111111111,Flag for Audit,231.0,Monitor,Logged for Monitoring
+7515,2024-11-09 02:00:00,Google Cloud,Marketing,2304,Statistical Outlier (Isolation Forest),0.004666666666666667,Flag for Audit,230.4,Monitor,Logged for Monitoring
+241,2024-01-11 00:00:00,Wipro,Finance,2301,Statistical Outlier (Isolation Forest),0.0065491350754508645,Flag for Audit,230.1,Monitor,Logged for Monitoring
+2706,2024-04-22 17:00:00,Google Cloud,Operations,2299,Statistical Outlier (Isolation Forest),0.0019166666666666666,Flag for Audit,229.9,Monitor,Logged for Monitoring
+2211,2024-04-02 02:00:00,IBM,Marketing,2293,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,229.3,Monitor,Logged for Monitoring
+7274,2024-10-30 01:00:00,Wipro,Marketing,2287,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,228.7,Monitor,Logged for Monitoring
+6095,2024-09-10 22:00:00,AWS,Marketing,2268,Statistical Outlier (Isolation Forest),0.0011111111111111111,Flag for Audit,226.8,Monitor,Logged for Monitoring
+8921,2025-01-06 16:00:00,IBM,IT,2249,Statistical Outlier (Isolation Forest),0.003571428571428571,Flag for Audit,224.9,Monitor,Logged for Monitoring
+4823,2024-07-19 22:00:00,Azure,Finance,2244,Statistical Outlier (Isolation Forest),0.000625,Flag for Audit,224.4,Monitor,Logged for Monitoring
+2358,2024-04-08 05:00:00,Wipro,IT,2238,Statistical Outlier (Isolation Forest),0.002,Flag for Audit,223.8,Monitor,Logged for Monitoring
+6022,2024-09-07 21:00:00,Infosys,Operations,2238,Statistical Outlier (Isolation Forest),0.002159090909090909,Flag for Audit,223.8,Monitor,Logged for Monitoring
+6695,2024-10-05 22:00:00,AWS,Marketing,2236,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,223.6,Monitor,Logged for Monitoring
+3078,2024-05-08 05:00:00,Azure,Operations,2223,Statistical Outlier (Isolation Forest),0.0008333333333333333,Flag for Audit,222.3,Monitor,Logged for Monitoring
+7483,2024-11-07 18:00:00,AWS,HR,2208,Statistical Outlier (Isolation Forest),0.00465909090909091,Flag for Audit,220.8,Monitor,Logged for Monitoring
+4499,2024-07-06 10:00:00,IBM,Operations,2195,Statistical Outlier (Isolation Forest),0.002,Flag for Audit,219.5,Monitor,Logged for Monitoring
+5762,2024-08-28 01:00:00,AWS,Marketing,2159,Statistical Outlier (Isolation Forest),0.003632478632478633,Flag for Audit,215.9,Monitor,Logged for Monitoring
+4232,2024-06-25 07:00:00,Azure,HR,2151,Statistical Outlier (Isolation Forest),0.0024475524475524478,Flag for Audit,215.1,Monitor,Logged for Monitoring
+6233,2024-09-16 16:00:00,Azure,Finance,2144,Statistical Outlier (Isolation Forest),0.0018803418803418803,Flag for Audit,214.4,Monitor,Logged for Monitoring
+5967,2024-09-05 14:00:00,IBM,Operations,2135,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,213.5,Monitor,Logged for Monitoring
+9146,2025-01-16 01:00:00,TCS,Marketing,2132,Statistical Outlier (Isolation Forest),0.0022222222222222222,Flag for Audit,213.2,Monitor,Logged for Monitoring
+2380,2024-04-09 03:00:00,Azure,HR,2130,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,213.0,Monitor,Logged for Monitoring
+7061,2024-10-21 04:00:00,Infosys,Operations,2120,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,212.0,Monitor,Logged for Monitoring
+9898,2025-02-16 09:00:00,AWS,Operations,2119,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,211.9,Monitor,Logged for Monitoring
+3965,2024-06-14 04:00:00,IBM,Finance,2112,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,211.2,Monitor,Logged for Monitoring
+457,2024-01-20 00:00:00,Wipro,HR,2110,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,211.0,Monitor,Logged for Monitoring
+4749,2024-07-16 20:00:00,IBM,HR,2094,Statistical Outlier (Isolation Forest),0.0025,Flag for Audit,209.4,Monitor,Logged for Monitoring
+6061,2024-09-09 12:00:00,Wipro,IT,2085,Statistical Outlier (Isolation Forest),0.002,Flag for Audit,208.5,Monitor,Logged for Monitoring
+8136,2024-12-04 23:00:00,Google Cloud,Finance,2084,Statistical Outlier (Isolation Forest),0.003964646464646464,Flag for Audit,208.4,Monitor,Logged for Monitoring
+329,2024-01-14 16:00:00,TCS,Operations,2073,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,207.3,Monitor,Logged for Monitoring
+4302,2024-06-28 05:00:00,Google Cloud,Finance,2071,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,207.1,Monitor,Logged for Monitoring
+5823,2024-08-30 14:00:00,Google Cloud,Operations,2069,Statistical Outlier (Isolation Forest),0.005804195804195804,Flag for Audit,206.9,Monitor,Logged for Monitoring
+265,2024-01-12 00:00:00,Infosys,HR,2067,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,206.7,Monitor,Logged for Monitoring
+7293,2024-10-30 20:00:00,Google Cloud,Marketing,2046,Statistical Outlier (Isolation Forest),0.004217032967032967,Flag for Audit,204.6,Monitor,Logged for Monitoring
+9589,2025-02-03 12:00:00,AWS,IT,2027,Statistical Outlier (Isolation Forest),0.0016666666666666666,Flag for Audit,202.7,Monitor,Logged for Monitoring
+1989,2024-03-23 20:00:00,Infosys,Marketing,2010,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,201.0,Monitor,Logged for Monitoring
+9337,2025-01-24 00:00:00,Google Cloud,Finance,1992,Statistical Outlier (Isolation Forest),0.005158730158730158,Flag for Audit,199.2,Monitor,Logged for Monitoring
+900,2024-02-07 11:00:00,AWS,HR,1987,Statistical Outlier (Isolation Forest),0.010871794871794871,Flag for Audit,198.7,Monitor,Logged for Monitoring
+3056,2024-05-07 07:00:00,Wipro,IT,1982,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,198.2,Monitor,Logged for Monitoring
+3910,2024-06-11 21:00:00,AWS,Marketing,1981,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,198.1,Monitor,Logged for Monitoring
+6842,2024-10-12 01:00:00,Google Cloud,Finance,1975,Statistical Outlier (Isolation Forest),0.0030000000000000005,Flag for Audit,197.5,Monitor,Logged for Monitoring
+8255,2024-12-09 22:00:00,Azure,HR,1974,Statistical Outlier (Isolation Forest),0.003418803418803419,Flag for Audit,197.4,Monitor,Logged for Monitoring
+5710,2024-08-25 21:00:00,Google Cloud,Operations,1973,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,197.3,Monitor,Logged for Monitoring
+6253,2024-09-17 12:00:00,Infosys,Operations,1972,Statistical Outlier (Isolation Forest),0.0016666666666666666,Flag for Audit,197.2,Monitor,Logged for Monitoring
+6826,2024-10-11 09:00:00,Infosys,IT,1972,Statistical Outlier (Isolation Forest),0.008311688311688312,Flag for Audit,197.2,Monitor,Logged for Monitoring
+3207,2024-05-13 14:00:00,Wipro,Marketing,1958,Statistical Outlier (Isolation Forest),0.0013333333333333333,Flag for Audit,195.8,Monitor,Logged for Monitoring
+6146,2024-09-13 01:00:00,Infosys,IT,1947,Statistical Outlier (Isolation Forest),0.0021929824561403508,Flag for Audit,194.7,Monitor,Logged for Monitoring
+4600,2024-07-10 15:00:00,Google Cloud,Operations,1929,Statistical Outlier (Isolation Forest),0.002435897435897436,Flag for Audit,192.9,Monitor,Logged for Monitoring
+6351,2024-09-21 14:00:00,Azure,Finance,1925,Statistical Outlier (Isolation Forest),0.008484848484848484,Flag for Audit,192.5,Monitor,Logged for Monitoring
+46,2024-01-02 21:00:00,TCS,IT,1922,Statistical Outlier (Isolation Forest),0.005686274509803921,Flag for Audit,192.2,Monitor,Logged for Monitoring
+728,2024-01-31 07:00:00,Azure,Marketing,1903,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,190.3,Monitor,Logged for Monitoring
+4100,2024-06-19 19:00:00,Azure,Marketing,1891,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,189.1,Monitor,Logged for Monitoring
+3690,2024-06-02 17:00:00,Wipro,Operations,1888,Statistical Outlier (Isolation Forest),0.011033936651583712,Flag for Audit,188.8,Monitor,Logged for Monitoring
+7448,2024-11-06 07:00:00,Google Cloud,HR,1881,Statistical Outlier (Isolation Forest),0.005,Flag for Audit,188.1,Monitor,Logged for Monitoring
+4074,2024-06-18 17:00:00,Google Cloud,Operations,1869,Statistical Outlier (Isolation Forest),0.0026785714285714286,Flag for Audit,186.9,Monitor,Logged for Monitoring
+2116,2024-03-29 03:00:00,Google Cloud,HR,1863,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,186.3,Monitor,Logged for Monitoring
+5746,2024-08-27 09:00:00,Wipro,Operations,1858,Statistical Outlier (Isolation Forest),0.0075,Flag for Audit,185.8,Monitor,Logged for Monitoring
+9045,2025-01-11 20:00:00,Infosys,Finance,1826,Statistical Outlier (Isolation Forest),0.013213786213786214,Flag for Audit,182.6,Monitor,Logged for Monitoring
+3619,2024-05-30 18:00:00,Google Cloud,Marketing,1823,Statistical Outlier (Isolation Forest),0.00903409090909091,Flag for Audit,182.3,Monitor,Logged for Monitoring
+7225,2024-10-28 00:00:00,Azure,HR,1814,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,181.4,Monitor,Logged for Monitoring
+5945,2024-09-04 16:00:00,TCS,Marketing,1799,Statistical Outlier (Isolation Forest),0.009067821067821067,Flag for Audit,179.9,Monitor,Logged for Monitoring
+3763,2024-06-05 18:00:00,Google Cloud,Marketing,1792,Statistical Outlier (Isolation Forest),0.00125,Flag for Audit,179.2,Monitor,Logged for Monitoring
+4017,2024-06-16 08:00:00,Azure,IT,1765,Statistical Outlier (Isolation Forest),0.0037777777777777775,Flag for Audit,176.5,Monitor,Logged for Monitoring
+5001,2024-07-27 08:00:00,IBM,HR,1757,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,175.7,Monitor,Logged for Monitoring
+7588,2024-11-12 03:00:00,TCS,IT,1744,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,174.4,Monitor,Logged for Monitoring
+2702,2024-04-22 13:00:00,TCS,Operations,1737,Statistical Outlier (Isolation Forest),0.0057954545454545455,Flag for Audit,173.7,Monitor,Logged for Monitoring
+5819,2024-08-30 10:00:00,Google Cloud,Operations,1719,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,171.9,Monitor,Logged for Monitoring
+4660,2024-07-13 03:00:00,Azure,Finance,1693,Statistical Outlier (Isolation Forest),0.009443181818181818,Flag for Audit,169.3,Monitor,Logged for Monitoring
+2384,2024-04-09 07:00:00,Wipro,Operations,1663,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,166.3,Monitor,Logged for Monitoring
+7699,2024-11-16 18:00:00,Wipro,Finance,1638,Statistical Outlier (Isolation Forest),0.007463536463536463,Flag for Audit,163.8,Monitor,Logged for Monitoring
+7803,2024-11-21 02:00:00,IBM,Operations,1637,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,163.7,Monitor,Logged for Monitoring
+4923,2024-07-24 02:00:00,Wipro,Finance,1637,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,163.7,Monitor,Logged for Monitoring
+8819,2025-01-02 10:00:00,Google Cloud,Marketing,1620,Statistical Outlier (Isolation Forest),0.0035555555555555553,Flag for Audit,162.0,Monitor,Logged for Monitoring
+3180,2024-05-12 11:00:00,TCS,Marketing,1615,Statistical Outlier (Isolation Forest),0.0060866910866910874,Flag for Audit,161.5,Monitor,Logged for Monitoring
+5900,2024-09-02 19:00:00,AWS,HR,1610,Statistical Outlier (Isolation Forest),0.002261904761904762,Flag for Audit,161.0,Monitor,Logged for Monitoring
+1018,2024-02-12 09:00:00,Azure,Finance,1594,Statistical Outlier (Isolation Forest),0.00375,Flag for Audit,159.4,Monitor,Logged for Monitoring
+4905,2024-07-23 08:00:00,Google Cloud,Finance,1589,Statistical Outlier (Isolation Forest),0.016967032967032968,Flag for Audit,158.9,Monitor,Logged for Monitoring
+4011,2024-06-16 02:00:00,TCS,IT,1570,Statistical Outlier (Isolation Forest),0.011944444444444445,Flag for Audit,157.0,Monitor,Logged for Monitoring
+8068,2024-12-02 03:00:00,Google Cloud,IT,1557,Statistical Outlier (Isolation Forest),0.008791666666666666,Flag for Audit,155.7,Monitor,Logged for Monitoring
+8006,2024-11-29 13:00:00,AWS,HR,1553,Statistical Outlier (Isolation Forest),0.0009090909090909091,Flag for Audit,155.3,Monitor,Logged for Monitoring
+5420,2024-08-13 19:00:00,Google Cloud,Finance,1552,Statistical Outlier (Isolation Forest),0.0025,Flag for Audit,155.2,Monitor,Logged for Monitoring
+8374,2024-12-14 21:00:00,Wipro,IT,1535,Statistical Outlier (Isolation Forest),0.0016666666666666666,Flag for Audit,153.5,Monitor,Logged for Monitoring
+402,2024-01-17 17:00:00,TCS,Marketing,1533,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,153.3,Monitor,Logged for Monitoring
+7430,2024-11-05 13:00:00,Wipro,Finance,1530,Statistical Outlier (Isolation Forest),0.0026785714285714286,Flag for Audit,153.0,Monitor,Logged for Monitoring
+4438,2024-07-03 21:00:00,Azure,Marketing,1527,Statistical Outlier (Isolation Forest),0.0014835164835164836,Flag for Audit,152.7,Monitor,Logged for Monitoring
+5990,2024-09-06 13:00:00,IBM,Operations,1526,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,152.6,Monitor,Logged for Monitoring
+1876,2024-03-19 03:00:00,AWS,HR,1518,Statistical Outlier (Isolation Forest),0.0015384615384615385,Flag for Audit,151.8,Monitor,Logged for Monitoring
+801,2024-02-03 08:00:00,IBM,IT,1511,Statistical Outlier (Isolation Forest),0.003333333333333333,Flag for Audit,151.1,Monitor,Logged for Monitoring
+1887,2024-03-19 14:00:00,AWS,IT,1500,Statistical Outlier (Isolation Forest),0.000588235294117647,Flag for Audit,150.0,Monitor,Logged for Monitoring
+4454,2024-07-04 13:00:00,IBM,Marketing,1445,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,144.5,Monitor,Logged for Monitoring
+2126,2024-03-29 13:00:00,AWS,Finance,1443,Statistical Outlier (Isolation Forest),0.0008333333333333333,Flag for Audit,144.3,Monitor,Logged for Monitoring
+7503,2024-11-08 14:00:00,Google Cloud,Finance,1424,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,142.4,Monitor,Logged for Monitoring
+6631,2024-10-03 06:00:00,Infosys,HR,1420,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,142.0,Monitor,Logged for Monitoring
+5398,2024-08-12 21:00:00,Google Cloud,IT,1415,Statistical Outlier (Isolation Forest),0.00125,Flag for Audit,141.5,Monitor,Logged for Monitoring
+9989,2025-02-20 04:00:00,AWS,HR,1393,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,139.3,Monitor,Logged for Monitoring
+6912,2024-10-14 23:00:00,Google Cloud,Marketing,1393,Statistical Outlier (Isolation Forest),0.007633699633699633,Flag for Audit,139.3,Monitor,Logged for Monitoring
+459,2024-01-20 02:00:00,Infosys,IT,1386,Statistical Outlier (Isolation Forest),0.011239484930274404,Flag for Audit,138.6,Monitor,Logged for Monitoring
+987,2024-02-11 02:00:00,Azure,IT,1386,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,138.6,Monitor,Logged for Monitoring
+1746,2024-03-13 17:00:00,Azure,Marketing,1366,Statistical Outlier (Isolation Forest),0.002857142857142857,Flag for Audit,136.6,Monitor,Logged for Monitoring
+6827,2024-10-11 10:00:00,Wipro,Finance,1360,Statistical Outlier (Isolation Forest),0.004428571428571428,Flag for Audit,136.0,Monitor,Logged for Monitoring
+9544,2025-02-01 15:00:00,Wipro,Finance,1357,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,135.7,Monitor,Logged for Monitoring
+2985,2024-05-04 08:00:00,Wipro,Operations,1238,Statistical Outlier (Isolation Forest),0.0015384615384615385,Flag for Audit,123.8,Monitor,Logged for Monitoring
+7932,2024-11-26 11:00:00,AWS,Operations,1218,Statistical Outlier (Isolation Forest),0.009753968253968254,Flag for Audit,121.8,Monitor,Logged for Monitoring
+955,2024-02-09 18:00:00,Wipro,HR,1211,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,121.1,Monitor,Logged for Monitoring
+3217,2024-05-14 00:00:00,Azure,Marketing,1205,Statistical Outlier (Isolation Forest),0.0006666666666666666,Flag for Audit,120.5,Monitor,Logged for Monitoring
+5940,2024-09-04 11:00:00,Wipro,Marketing,1189,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,118.9,Monitor,Logged for Monitoring
+7136,2024-10-24 07:00:00,AWS,Marketing,1185,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,118.5,Monitor,Logged for Monitoring
+1472,2024-03-02 07:00:00,IBM,Marketing,1184,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,118.4,Monitor,Logged for Monitoring
+7723,2024-11-17 18:00:00,IBM,Finance,1184,Statistical Outlier (Isolation Forest),0.0008333333333333333,Flag for Audit,118.4,Monitor,Logged for Monitoring
+421,2024-01-18 12:00:00,AWS,IT,1183,Statistical Outlier (Isolation Forest),0.008633699633699633,Flag for Audit,118.3,Monitor,Logged for Monitoring
+3826,2024-06-08 09:00:00,Azure,HR,1169,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,116.9,Monitor,Logged for Monitoring
+5523,2024-08-18 02:00:00,Azure,IT,1163,Statistical Outlier (Isolation Forest),0.013893557422969187,Flag for Audit,116.3,Monitor,Logged for Monitoring
+9353,2025-01-24 16:00:00,IBM,Finance,1154,Statistical Outlier (Isolation Forest),0.0005555555555555556,Flag for Audit,115.4,Monitor,Logged for Monitoring
+9728,2025-02-09 07:00:00,Infosys,Finance,1146,Statistical Outlier (Isolation Forest),0.01260475472240178,Flag for Audit,114.6,Monitor,Logged for Monitoring
+2688,2024-04-21 23:00:00,TCS,Finance,1129,Statistical Outlier (Isolation Forest),0.0069313725490196074,Flag for Audit,112.9,Monitor,Logged for Monitoring
+5489,2024-08-16 16:00:00,Wipro,Operations,1125,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,112.5,Monitor,Logged for Monitoring
+6806,2024-10-10 13:00:00,Google Cloud,Operations,1123,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,112.3,Monitor,Logged for Monitoring
+1183,2024-02-19 06:00:00,Wipro,HR,1111,Statistical Outlier (Isolation Forest),0.009583333333333333,Flag for Audit,111.1,Monitor,Logged for Monitoring
+1031,2024-02-12 22:00:00,Wipro,Marketing,1094,Statistical Outlier (Isolation Forest),0.015484848484848483,Flag for Audit,109.4,Monitor,Logged for Monitoring
+9922,2025-02-17 09:00:00,Wipro,Marketing,1093,Statistical Outlier (Isolation Forest),0.0037362637362637363,Flag for Audit,109.3,Monitor,Logged for Monitoring
+4266,2024-06-26 17:00:00,Azure,Marketing,1079,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,107.9,Monitor,Logged for Monitoring
+9693,2025-02-07 20:00:00,Infosys,Operations,1076,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,107.6,Monitor,Logged for Monitoring
+6199,2024-09-15 06:00:00,IBM,Operations,1068,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,106.8,Monitor,Logged for Monitoring
+6361,2024-09-22 00:00:00,Azure,Finance,1059,Statistical Outlier (Isolation Forest),0.006107142857142858,Flag for Audit,105.9,Monitor,Logged for Monitoring
+2228,2024-04-02 19:00:00,Google Cloud,Operations,1058,Statistical Outlier (Isolation Forest),0.0030277777777777777,Flag for Audit,105.8,Monitor,Logged for Monitoring
+8080,2024-12-02 15:00:00,Wipro,Marketing,1057,Statistical Outlier (Isolation Forest),0.002307692307692308,Flag for Audit,105.7,Monitor,Logged for Monitoring
+5593,2024-08-21 00:00:00,Infosys,Operations,1051,Statistical Outlier (Isolation Forest),0.005576923076923077,Flag for Audit,105.1,Monitor,Logged for Monitoring
+3142,2024-05-10 21:00:00,Azure,Marketing,1050,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,105.0,Monitor,Logged for Monitoring
+4619,2024-07-11 10:00:00,Azure,Marketing,1042,Statistical Outlier (Isolation Forest),0.0007142857142857143,Flag for Audit,104.2,Monitor,Logged for Monitoring
+2223,2024-04-02 14:00:00,Azure,IT,1037,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,103.7,Monitor,Logged for Monitoring
+9497,2025-01-30 16:00:00,TCS,HR,1029,Statistical Outlier (Isolation Forest),0.003976190476190476,Flag for Audit,102.9,Monitor,Logged for Monitoring
+623,2024-01-26 22:00:00,Infosys,Marketing,1020,Statistical Outlier (Isolation Forest),0.0,Flag for Audit,102.0,Monitor,Logged for Monitoring
+5745,2024-08-27 08:00:00,AWS,HR,1018,Statistical Outlier (Isolation Forest),0.004941176470588235,Flag for Audit,101.8,Monitor,Logged for Monitoring
+9111,2025-01-14 14:00:00,TCS,IT,1014,Statistical Outlier (Isolation Forest),0.005686274509803921,Flag for Audit,101.4,Monitor,Logged for Monitoring
