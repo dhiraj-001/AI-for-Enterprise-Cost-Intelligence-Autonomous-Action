@@ -3,6 +3,7 @@ from __future__ import annotations
 import json
 from datetime import datetime, timezone
 import pandas as pd
+import numpy as np
 import plotly.express as px
 import streamlit as st
 
@@ -16,9 +17,36 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
+# --- Demo Data Generator ---
+@st.cache_data
+def load_demo_data():
+    """Generates a realistic synthetic dataset with built-in anomalies."""
+    np.random.seed(42)
+    n = 500
+    rng = pd.date_range("2024-01-01", periods=n, freq="D")
+    df = pd.DataFrame({
+        "Transaction_ID": [f"TXN{1000 + i}" for i in range(n)],
+        "Vendor": np.random.choice(["AWS", "Salesforce", "Oracle", "Zoom", "Slack", "Adobe", "Microsoft"], n),
+        "Category": np.random.choice(["Cloud", "SaaS", "Infra", "Marketing", "HR"], n),
+        "Amount": np.round(np.random.exponential(scale=5000, size=n), 2),
+        "Date": np.random.choice(rng, n),
+        "Department": np.random.choice(["Engineering", "Sales", "HR", "Marketing", "Finance"], n),
+    })
+    
+    # Plant obvious anomalies for the AI to find
+    # 1. Duplicate payments
+    df.loc[5:7, ["Vendor", "Amount", "Date"]] = df.loc[0, ["Vendor", "Amount", "Date"]] 
+    # 2. High spend outliers
+    df.loc[10, "Amount"] = 280_000 
+    df.loc[45, "Amount"] = 195_000
+    
+    return df
+
 # --- 2. Session State (Keeps data alive while clicking tabs) ---
 if "pipeline_run" not in st.session_state:
     st.session_state.pipeline_run = False
+if "raw_data" not in st.session_state:
+    st.session_state.raw_data = None
 if "spend_issues" not in st.session_state:
     st.session_state.spend_issues = pd.DataFrame()
 if "sla_df" not in st.session_state:
@@ -30,10 +58,21 @@ if "totals" not in st.session_state:
 
 # --- 3. Sidebar: Live Data Ingestion ---
 st.sidebar.title("Control Room")
-uploaded_file = st.sidebar.file_uploader("Upload Enterprise Dataset (CSV)", type=["csv"])
 
+# Option A: Load Demo Data
+if st.sidebar.button("Load Demo Dataset"):
+    st.session_state.raw_data = load_demo_data()
+    st.session_state.pipeline_run = False # Reset pipeline if new data loaded
+
+# Option B: Upload CSV
+uploaded_file = st.sidebar.file_uploader("Or Upload Enterprise Dataset (CSV)", type=["csv"])
 if uploaded_file is not None:
-    spend_df = pd.read_csv(uploaded_file)
+    st.session_state.raw_data = pd.read_csv(uploaded_file)
+    st.session_state.pipeline_run = False # Reset pipeline if new data loaded
+
+# If data is loaded (either demo or uploaded), show the Run button
+if st.session_state.raw_data is not None:
+    spend_df = st.session_state.raw_data
     st.sidebar.success(f"Loaded {len(spend_df)} rows.")
     
     if st.sidebar.button("Run Multi-Agent Pipeline", type="primary"):
@@ -63,7 +102,7 @@ st.title("Hackerthorn SLA & Cost-Leakage Control Room")
 st.caption("AI that continuously monitors data, identifies cost leakage, and initiates corrective actions.")
 
 if not st.session_state.pipeline_run:
-    st.info("👈 Please upload an enterprise dataset and run the pipeline from the sidebar to populate the control room.")
+    st.info("👈 Please load the demo dataset or upload a CSV, then run the pipeline from the sidebar to populate the control room.")
     st.stop()
 
 # --- 5. Extract Data for Visuals ---
